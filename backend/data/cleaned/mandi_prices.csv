@@ -1,0 +1,1514 @@
+state,district,mandi,commodity,commodity_hindi,variety,min_price,max_price,modal_price,price_unit,reported_date,source,no_rate_reported
+Uttar Pradesh,Agra,Agra Grain Market,Wheat,गेहूँ,Lokwan,1820.00,2150.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Agra,Agra Grain Market,Wheat,गेहूँ,Lokwan,1800.00,2100.00,1950.00,INR/Quintal,2026-10-20,Agmarknet,false
+Uttar Pradesh,Agra,Agra Grain Market,Wheat,गेहूँ,Lokwan,1810.00,2080.00,1940.00,INR/Quintal,2026-10-19,Agmarknet,false
+Uttar Pradesh,Agra,Agra Grain Market,Wheat,गेहूँ,Lokwan,,,,INR/Quintal,2026-10-18,Agmarknet,true
+Uttar Pradesh,Agra,Agra Grain Market,Wheat,गेहूँ,Lokwan,1790.00,2050.00,1920.00,INR/Quintal,2026-10-17,Agmarknet,false
+Uttar Pradesh,Agra,Agra Grain Market,Wheat,गेहूँ,Lokwan,1780.00,2030.00,1910.00,INR/Quintal,2026-10-16,Agmarknet,false
+Uttar Pradesh,Agra,Agra Grain Market,Wheat,गेहूँ,Lokwan,1760.00,2010.00,1890.00,INR/Quintal,2026-10-15,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Onion,प्याज,Red,1100.00,1800.00,1450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Onion,प्याज,Red,1050.00,1750.00,1400.00,INR/Quintal,2026-10-20,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Onion,प्याज,Red,1000.00,1700.00,1350.00,INR/Quintal,2026-10-19,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Onion,प्याज,Red,980.00,1680.00,1330.00,INR/Quintal,2026-10-18,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Onion,प्याज,Red,,,,INR/Quintal,2026-10-17,Agmarknet,true
+Uttar Pradesh,Agra,Agra F&V Market,Onion,प्याज,Red,950.00,1650.00,1300.00,INR/Quintal,2026-10-16,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Onion,प्याज,Red,920.00,1600.00,1260.00,INR/Quintal,2026-10-15,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow Grain Market,Wheat,गेहूँ,Lokwan,1850.00,2200.00,2050.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow Grain Market,Wheat,गेहूँ,Lokwan,1840.00,2180.00,2030.00,INR/Quintal,2026-10-20,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow Grain Market,Wheat,गेहूँ,Lokwan,1830.00,2160.00,2010.00,INR/Quintal,2026-10-19,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow Grain Market,Wheat,गेहूँ,Lokwan,,,,INR/Quintal,2026-10-18,Agmarknet,true
+Uttar Pradesh,Lucknow,Lucknow Grain Market,Wheat,गेहूँ,Lokwan,1820.00,2140.00,1990.00,INR/Quintal,2026-10-17,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow Grain Market,Wheat,गेहूँ,Lokwan,1810.00,2120.00,1970.00,INR/Quintal,2026-10-16,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow Grain Market,Wheat,गेहूँ,Lokwan,1800.00,2100.00,1950.00,INR/Quintal,2026-10-15,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow F&V Market,Tomato,टमाटर,Local,1200.00,2800.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow F&V Market,Tomato,टमाटर,Local,1100.00,2600.00,1850.00,INR/Quintal,2026-10-20,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow F&V Market,Tomato,टमाटर,Local,1000.00,2400.00,1700.00,INR/Quintal,2026-10-19,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow F&V Market,Tomato,टमाटर,Local,900.00,2200.00,1550.00,INR/Quintal,2026-10-18,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow F&V Market,Tomato,टमाटर,Local,850.00,2100.00,1475.00,INR/Quintal,2026-10-17,Agmarknet,false
+Uttar Pradesh,Lucknow,Lucknow F&V Market,Tomato,टमाटर,Local,,,,INR/Quintal,2026-10-16,Agmarknet,true
+Uttar Pradesh,Lucknow,Lucknow F&V Market,Tomato,टमाटर,Local,800.00,2000.00,1400.00,INR/Quintal,2026-10-15,Agmarknet,false
+Punjab,Amritsar,Amritsar Grain Market,Wheat,गेहूँ,General,1880.00,2250.00,2080.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Amritsar,Amritsar Grain Market,Wheat,गेहूँ,General,1870.00,2230.00,2060.00,INR/Quintal,2026-10-20,Agmarknet,false
+Punjab,Amritsar,Amritsar Grain Market,Wheat,गेहूँ,General,1860.00,2210.00,2040.00,INR/Quintal,2026-10-19,Agmarknet,false
+Punjab,Amritsar,Amritsar Grain Market,Wheat,गेहूँ,General,1850.00,2190.00,2020.00,INR/Quintal,2026-10-18,Agmarknet,false
+Punjab,Amritsar,Amritsar Grain Market,Wheat,गेहूँ,General,,,,INR/Quintal,2026-10-17,Agmarknet,true
+Punjab,Amritsar,Amritsar Grain Market,Wheat,गेहूँ,General,1840.00,2170.00,2000.00,INR/Quintal,2026-10-16,Agmarknet,false
+Punjab,Amritsar,Amritsar Grain Market,Wheat,गेहूँ,General,1830.00,2150.00,1980.00,INR/Quintal,2026-10-15,Agmarknet,false
+Punjab,Ludhiana,Ludhiana Grain Market,Wheat,गेहूँ,General,1900.00,2280.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Ludhiana Grain Market,Wheat,गेहूँ,General,1890.00,2260.00,2080.00,INR/Quintal,2026-10-20,Agmarknet,false
+Punjab,Ludhiana,Ludhiana Grain Market,Wheat,गेहूँ,General,1880.00,2240.00,2060.00,INR/Quintal,2026-10-19,Agmarknet,false
+Punjab,Ludhiana,Ludhiana Grain Market,Wheat,गेहूँ,General,1870.00,2220.00,2040.00,INR/Quintal,2026-10-18,Agmarknet,false
+Punjab,Ludhiana,Ludhiana Grain Market,Wheat,गेहूँ,General,1860.00,2200.00,2020.00,INR/Quintal,2026-10-17,Agmarknet,false
+Punjab,Ludhiana,Ludhiana Grain Market,Wheat,गेहूँ,General,1850.00,2180.00,2000.00,INR/Quintal,2026-10-16,Agmarknet,false
+Punjab,Ludhiana,Ludhiana Grain Market,Wheat,गेहूँ,General,,,,INR/Quintal,2026-10-15,Agmarknet,true
+Maharashtra,Nashik,Nashik Onion Market,Onion,प्याज,Red,900.00,2200.00,1550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Nashik Onion Market,Onion,प्याज,Red,880.00,2150.00,1515.00,INR/Quintal,2026-10-20,Agmarknet,false
+Maharashtra,Nashik,Nashik Onion Market,Onion,प्याज,Red,860.00,2100.00,1480.00,INR/Quintal,2026-10-19,Agmarknet,false
+Maharashtra,Nashik,Nashik Onion Market,Onion,प्याज,Red,,,,INR/Quintal,2026-10-18,Agmarknet,true
+Maharashtra,Nashik,Nashik Onion Market,Onion,प्याज,Red,840.00,2050.00,1445.00,INR/Quintal,2026-10-17,Agmarknet,false
+Maharashtra,Nashik,Nashik Onion Market,Onion,प्याज,Red,820.00,2000.00,1410.00,INR/Quintal,2026-10-16,Agmarknet,false
+Maharashtra,Nashik,Nashik Onion Market,Onion,प्याज,Red,800.00,1950.00,1375.00,INR/Quintal,2026-10-15,Agmarknet,false
+Maharashtra,Nashik,Nashik F&V Market,Tomato,टमाटर,Hybrid,1500.00,3200.00,2350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Nashik F&V Market,Tomato,टमाटर,Hybrid,1450.00,3100.00,2275.00,INR/Quintal,2026-10-20,Agmarknet,false
+Maharashtra,Nashik,Nashik F&V Market,Tomato,टमाटर,Hybrid,1400.00,3000.00,2200.00,INR/Quintal,2026-10-19,Agmarknet,false
+Maharashtra,Nashik,Nashik F&V Market,Tomato,टमाटर,Hybrid,1350.00,2900.00,2125.00,INR/Quintal,2026-10-18,Agmarknet,false
+Maharashtra,Nashik,Nashik F&V Market,Tomato,टमाटर,Hybrid,,,,INR/Quintal,2026-10-17,Agmarknet,true
+Maharashtra,Nashik,Nashik F&V Market,Tomato,टमाटर,Hybrid,1300.00,2800.00,2050.00,INR/Quintal,2026-10-16,Agmarknet,false
+Maharashtra,Nashik,Nashik F&V Market,Tomato,टमाटर,Hybrid,1250.00,2700.00,1975.00,INR/Quintal,2026-10-15,Agmarknet,false
+Maharashtra,Pune,Pune F&V Market,Potato,आलू,General,650.00,1400.00,1025.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Pune,Pune F&V Market,Potato,आलू,General,640.00,1380.00,1010.00,INR/Quintal,2026-10-20,Agmarknet,false
+Maharashtra,Pune,Pune F&V Market,Potato,आलू,General,630.00,1360.00,995.00,INR/Quintal,2026-10-19,Agmarknet,false
+Maharashtra,Pune,Pune F&V Market,Potato,आलू,General,620.00,1340.00,980.00,INR/Quintal,2026-10-18,Agmarknet,false
+Maharashtra,Pune,Pune F&V Market,Potato,आलू,General,610.00,1320.00,965.00,INR/Quintal,2026-10-17,Agmarknet,false
+Maharashtra,Pune,Pune F&V Market,Potato,आलू,General,,,,INR/Quintal,2026-10-16,Agmarknet,true
+Maharashtra,Pune,Pune F&V Market,Potato,आलू,General,600.00,1300.00,950.00,INR/Quintal,2026-10-15,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Potato,आलू,General,580.00,1280.00,930.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Potato,आलू,General,570.00,1260.00,915.00,INR/Quintal,2026-10-20,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Potato,आलू,General,560.00,1240.00,900.00,INR/Quintal,2026-10-19,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Potato,आलू,General,,,,INR/Quintal,2026-10-18,Agmarknet,true
+Uttar Pradesh,Agra,Agra F&V Market,Potato,आलू,General,550.00,1220.00,885.00,INR/Quintal,2026-10-17,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Potato,आलू,General,545.00,1210.00,877.50,INR/Quintal,2026-10-16,Agmarknet,false
+Uttar Pradesh,Agra,Agra F&V Market,Potato,आलू,General,540.00,1200.00,870.00,INR/Quintal,2026-10-15,Agmarknet,false
+Gujarat,Sabarkantha,Himatnagar Apmc,Wheat,गेहूँ,Sonalika,2715.00,3160.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Mumbai,Apmc Mumbai,Wheat,गेहूँ,Other,2900.00,6600.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dewas,Bagli Apmc,Wheat,गेहूँ,Mill Quality,2500.00,2511.00,2511.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sagar,Bina Apmc,Wheat,गेहूँ,Wheat,2751.00,4100.00,2770.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sagar,Bamora Apmc,Wheat,गेहूँ,Mill Quality,3100.00,3100.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kanpur,Kanpur(Grain) Apmc,Wheat,गेहूँ,Dara,2631.00,2760.00,2681.91,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Fatehpur,Bindki Apmc,Wheat,गेहूँ,Dara,2500.00,2550.00,2535.67,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Pillibhit,Bishalpur Apmc,Wheat,गेहूँ,Other,2550.00,2550.00,2550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hardoi,Sandila Apmc,Wheat,गेहूँ,Dara,2625.00,2625.00,2625.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Rajgarh,Chhapiheda Apmc,Wheat,गेहूँ,Wheat,2755.00,2755.00,2755.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Harda,Timarni Apmc,Wheat,गेहूँ,Wheat,2780.00,2780.00,2780.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Datia,Datia Apmc,Wheat,गेहूँ,Mill Quality,2700.00,2700.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Guna,Guna Apmc,Wheat,गेहूँ,Wheat,2800.00,5080.00,5080.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Datia,Sevda Apmc,Wheat,गेहूँ,Mill Quality,2600.00,2620.00,2620.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Damoh,Damoh Apmc,Wheat,गेहूँ,Mill Quality,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Panna,Panna Apmc,Wheat,गेहूँ,Mill Quality,2550.00,2560.00,2560.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Indore,Indore Apmc,Wheat,गेहूँ,Wheat,2798.00,3037.00,3020.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Harda,Harda Apmc,Wheat,गेहूँ,Mill Quality,2650.00,2899.00,2768.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Vidisha,Lateri Apmc,Wheat,गेहूँ,Mill Quality,2300.00,2355.00,2355.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Mandsaur,Bhanpura Apmc,Wheat,गेहूँ,Mill Quality,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Balaghat,Mohgaon Apmc,Wheat,गेहूँ,Wheat,2625.00,2628.00,2628.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Kota,Kota Apmc,Wheat,गेहूँ,Local,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Porbandar,Porbandar Apmc,Wheat,गेहूँ,Lokwan,2000.00,2655.00,2325.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Ahilyanagar,Karjat(Rashin),Wheat,गेहूँ,Other,2610.00,2800.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Chattrapati Sambhajinagar,Apmc Chattrapati Sambhajinagar,Wheat,गेहूँ,Other,2950.00,3501.00,3226.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Dhule,Dondaicha (Sindhkheda),Wheat,गेहूँ,Other,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri),Wheat,गेहूँ,Other,3050.00,4200.00,3625.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kanpur Dehat,Jhijhank Apmc,Wheat,गेहूँ,Dara,2450.00,2650.00,2518.33,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Thane,Apmc Ulhasnagar,Wheat,गेहूँ,Other,3200.00,3600.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Palghar,Apmc Palghar,Wheat,गेहूँ,Other,3600.00,3600.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Unnao,Bangarmau Apmc,Wheat,गेहूँ,Dara,2550.00,2550.00,2550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Ambedkarnagar,Tanda Akbarpur Apmc,Wheat,गेहूँ,Dara,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Sitapur,Maholi Apmc,Wheat,गेहूँ,Dara,2500.00,2550.00,2518.94,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Ratlam,Taal Apmc,Wheat,गेहूँ,Wheat,2900.00,2900.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Jabalpur,Sehora Apmc,Wheat,गेहूँ,Mill Quality,2589.00,2610.00,2610.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Siddharth Nagar,Bansi Apmc,Wheat,गेहूँ,Dara,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Chitrakut,Mau(Chitrakut) Apmc,Wheat,गेहूँ,Other,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Baran,Anta Apmc,Wheat,गेहूँ,Other,2760.00,2760.00,2760.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Banaskanth,Deesa Apmc,Wheat,गेहूँ,Other,2700.00,2910.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sehore,Ashta Apmc,Wheat,गेहूँ,Wheat,2850.00,4052.00,4052.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Mandla,Mandla Apmc,Wheat,गेहूँ,Mill Quality,2400.00,2410.00,2405.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dewas,Khategaon Apmc,Wheat,गेहूँ,Wheat,2700.00,2987.00,2987.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Sabarkantha,Apmckhedbrahma,Wheat,गेहूँ,Other,2800.00,3000.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nagpur,Apmc Nagpur,Wheat,गेहूँ,Other,2600.00,2609.00,2606.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dewas,Loharda Apmc,Wheat,गेहूँ,Wheat,2891.00,2891.00,2891.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hamirpur,Maudaha Apmc,Wheat,गेहूँ,Deshi,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Rewa,Chaakghat Apmc,Wheat,गेहूँ,Wheat,2550.00,2552.00,2552.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Dhoraji Apmc,Wheat,गेहूँ,Milbar,2255.00,2620.00,2535.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Jamnagar,Kalawad Apmc,Wheat,गेहूँ,Other,2485.00,2650.00,2545.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Jamnagar,Dhrol Apmc,Wheat,गेहूँ,Other,2400.00,2805.00,2605.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Jalgaon,Apmc Jalgaon,Wheat,गेहूँ,147 Average,2840.00,2840.00,2840.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kannuj,Chhibramau Apmc,Wheat,गेहूँ,Medium,2450.00,2450.00,2450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Gonda,Colonelganj Apmc,Wheat,गेहूँ,Dara,2450.00,2450.00,2450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hardoi,Madhoganj Apmc,Wheat,गेहूँ,Dara,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kanpur Dehat,Rura Apmc,Wheat,गेहूँ,Dara,2450.00,2500.00,2468.36,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Morbi,Vankaner Apmc,Wheat,गेहूँ,Lokwan,2500.00,2925.00,2825.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hardoi,Hardoi Apmc,Wheat,गेहूँ,Dara,2450.00,2460.00,2453.80,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kasganj,Ganj Dundwara Apmc,Wheat,गेहूँ,Dara,2700.00,2700.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj Apmc,Wheat,गेहूँ,Dara,2660.00,2660.00,2660.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kanpur Dehat,Pukharayan Apmc,Wheat,गेहूँ,Dara,2550.00,2600.00,2576.20,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Dahod,Dahod Apmc,Wheat,गेहूँ,147 Average,3075.00,3150.00,3110.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Satna,Satna Apmc,Wheat,गेहूँ,Mill Quality,2500.00,2560.00,2560.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Khargone,Khargone Apmc,Wheat,गेहूँ,Wheat,2750.00,2750.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Maihar,Amarpatan Apmc,Wheat,गेहूँ,Mill Quality,2557.00,2565.00,2562.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sehore,Bherunda (Nasrullaganj) Apmc,Wheat,गेहूँ,Wheat,2516.00,3070.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Khandwa,Mundi Apmc,Wheat,गेहूँ,Wheat,2725.00,2895.00,2895.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Amreli,Apmc Bagasara,Wheat,गेहूँ,Lokwan Gujrat,2400.00,2650.00,2525.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Mandla,Krishi Upaj Mandi Samiti Bichhiya,Wheat,गेहूँ,Wheat,2550.00,2550.00,2550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sidhi,Sidhi Apmc,Wheat,गेहूँ,Mill Quality,2380.00,2385.00,2385.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Jasdan Apmc,Wheat,गेहूँ,2189 No. 1,2800.00,3185.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Rajgarh,Sarangpur Apmc,Wheat,गेहूँ,Mill Quality,2740.00,2740.00,2740.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Etah,Aliganj Apmc,Wheat,गेहूँ,Dara,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kasganj,Kasganj Apmc,Wheat,गेहूँ,Medium,2560.00,2580.00,2566.86,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Vidisha,Shamshabad Apmc,Wheat,गेहूँ,Mill Quality,2521.00,2601.00,2601.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Ratlam,Ratlam Apmc,Wheat,गेहूँ,Wheat,3056.00,3253.00,3253.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Chhatarpur,Lavkush Nagar(Laundi) Apmc,Wheat,गेहूँ,Mill Quality,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Rewa,Rewa Apmc,Wheat,गेहूँ,Wheat,2530.00,2530.00,2530.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Sabarkantha,Modasa(Tintoi) Apmc,Wheat,गेहूँ,Lokwan,2675.00,2825.00,2825.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Rajkot Apmc,Wheat,गेहूँ,Lokwan,2830.00,3180.00,2870.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Junagarh,Visavadar Apmc,Wheat,गेहूँ,Lokwan Gujrat,2375.00,2825.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Morbi,Apmc Halvad,Wheat,गेहूँ,Other,2810.00,3090.00,2875.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Dahod,Limkheda Apmc,Wheat,गेहूँ,Local,2260.00,2660.00,2460.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Bareilly,Bareilly Apmc,Wheat,गेहूँ,Other,2601.00,2602.00,2601.66,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Mathura,Kosikalan Apmc,Wheat,गेहूँ,Dara,2550.00,2700.00,2620.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Siddharth Nagar,Sahiyapur Apmc,Wheat,गेहूँ,Dara,2430.00,2430.00,2430.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Unnao,Unnao Apmc,Wheat,गेहूँ,Dara Mill Quality,2550.00,2550.00,2550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Narmadapuram,Pipariya Apmc,Wheat,गेहूँ,Mill Quality,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Jhabua,Thandla Apmc,Wheat,गेहूँ,Local,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Mainpuri,Mainpuri Apmc,Wheat,गेहूँ,Medium,2650.00,2650.00,2650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Baghpat,Baraut Apmc,Wheat,गेहूँ,Local,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad Apmc,Wheat,गेहूँ,Dara,2530.00,2530.00,2530.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Ujjain,Nagda Apmc,Wheat,गेहूँ,Wheat,2690.00,2890.00,2890.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sagar,Gadakota Apmc,Wheat,गेहूँ,Wheat,2550.00,2550.00,2550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Sabarkantha,Modasa Apmc,Wheat,गेहूँ,Lokwan Gujrat,2775.00,2925.00,2925.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Banda,Banda Apmc,Wheat,गेहूँ,Other,2580.00,2580.00,2580.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Gandhinagar,Kalol Apmc,Wheat,गेहूँ,Other,2850.00,2975.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Dharashiv,Apmc Tuljapur,Wheat,गेहूँ,Other,2610.00,2700.00,2650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Rajgarh,Pachaur Apmc,Wheat,गेहूँ,Wheat,2675.00,2750.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dewas,Haatpipliya Apmc,Wheat,गेहूँ,Wheat,2400.00,2400.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Shivpuri,Karera Apmc,Wheat,गेहूँ,Wheat,2650.00,2670.00,2670.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sagar,Shahagarh Apmc,Wheat,गेहूँ,Mill Quality,2590.00,2590.00,2590.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) Apmc,Wheat,गेहूँ,Other,2470.00,2530.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Amreli,Babra Apmc,Wheat,गेहूँ,Medium,2605.00,2925.00,2660.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Apmc Devala,Wheat,गेहूँ,Maharashtra 2189,2625.00,2825.00,2785.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Amreli,The Agricultural Produce Market Committee-Amreli,Wheat,गेहूँ,Bansi,2825.00,2825.00,2825.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Meerut,Meerut Apmc,Wheat,गेहूँ,Dara Mill Quality,2700.00,2720.00,2714.12,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Basti,Basti Apmc,Wheat,गेहूँ,Dara,2455.00,2600.00,2514.14,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Ghazipur,Jangipura Apmc,Wheat,गेहूँ,Other,2450.00,2450.00,2450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Bulandshahar,Khurja Apmc,Wheat,गेहूँ,Dara,2650.00,2650.00,2650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Raebarelli,Salon Apmc,Wheat,गेहूँ,Medium,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Shamli,Shamli Apmc,Wheat,गेहूँ,Other,3330.00,3330.00,3330.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kanpur,Baripaal Apmc,Wheat,गेहूँ,Other,2550.00,2560.00,2552.60,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) Apmc,Wheat,गेहूँ,Lokwan,2500.00,3000.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Raisen,Udaipura Apmc,Wheat,गेहूँ,Mill Quality,2715.00,2740.00,2740.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dhar,Manawar Apmc,Wheat,गेहूँ,Wheat,2800.00,2950.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi Apmc,Wheat,गेहूँ,Dara,2700.00,2700.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Ashoknagar,Ashoknagar Apmc,Wheat,गेहूँ,Wheat,2725.00,2730.00,2730.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dewas,Dewas Apmc,Wheat,गेहूँ,Wheat,2601.00,2604.00,2604.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Katni,Katni Apmc,Wheat,गेहूँ,Mill Quality,2550.00,2550.00,2550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Khandwa,Khandwa Apmc,Wheat,गेहूँ,Mill Quality,2818.00,3111.00,3111.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Umariya,Umariya Apmc,Wheat,गेहूँ,Mill Quality,2300.00,2300.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Indore,Gautampura Apmc,Wheat,गेहूँ,Wheat,2620.00,2715.00,2715.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Maharajganj,Partaval Apmc,Wheat,गेहूँ,Dara,2400.00,2400.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Amreli,Savarkundla Apmc,Wheat,गेहूँ,Lokwan,2700.00,2900.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Lakshar Apmc,Wheat,गेहूँ,Other,2585.00,2600.00,2590.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Gir Somnath,Veraval Apmc,Wheat,गेहूँ,Medium Fine,2525.00,2805.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Alappuzha,Cherthala Market,Onion,प्याज,Onion,4000.00,4200.00,4100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kannur,Thalasserry Market,Onion,प्याज,1st Sort,4800.00,6000.00,5200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rewari,Kosli Apmc,Onion,प्याज,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Hanumangarh,Sangriya Apmc,Onion,प्याज,Onion,2500.00,3800.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Jammu And Kashmir,Jammu,Mac F&V Market Narwal Jammu,Onion,प्याज,Medium,4800.00,5500.00,5150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Malerkotla Apmc,Onion,प्याज,Other,3000.00,3800.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Onion,प्याज,Bellary,5800.00,6000.00,5900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6200.00,5600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6400.00,6200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Onion,प्याज,Bellary,4000.00,6400.00,5200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5800.00,6000.00,5900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6500.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Onion,प्याज,Bellary,6500.00,6500.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Kharar Apmc,Onion,प्याज,Other,3000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Navsari,Navsari Apmc,Onion,प्याज,Onion,3000.00,5500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Dahod,Dahod(Veg. Market) Apmc,Onion,प्याज,Onion,3000.00,5000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Pune,Khed(Chakan),Onion,प्याज,Other,1500.00,4500.00,3700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thenkasi,Sankarankoil(Uzhavar Sandhai ),Onion,प्याज,Bellary,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thenkasi,Tenkasi(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dhar,Manawar(F&V) Apmc,Onion,प्याज,Onion,3000.00,3600.00,3438.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Onion,प्याज,Bellary,6000.00,6400.00,6200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Pune,Pune(Pimpri),Onion,प्याज,Local,4200.00,4800.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Badwani,Sendhwa(F&V) Apmc,Onion,प्याज,Red,2000.00,2600.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Pathankot,Pathankot Apmc,Onion,प्याज,Onion,3300.00,3300.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Gonda,Nawabganj Apmc,Onion,प्याज,Other,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai(Uzhavar Sandhai ),Onion,प्याज,Bellary,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Paruthipattu(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Onion,प्याज,Bellary,4800.00,6000.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Mahendragarh-Narnaul,Narnaul Apmc,Onion,प्याज,Onion,3000.00,4500.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Hoshiarpur,Garh Shankar Apmc,Onion,प्याज,Onion,3300.00,3300.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Jalandhar,Goraya Apmc,Onion,प्याज,Other,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Boudh,Boudh Apmc,Onion,प्याज,Other,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Baijnath,Onion,प्याज,Onion,4400.00,4800.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Erragadda,Onion,प्याज,1st Sort,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Betul,Betul(F&V) Apmc,Onion,प्याज,Onion,2000.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Shamli,Kairana Apmc,Onion,प्याज,Other,2000.00,2100.00,2074.07,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kullu,Smy Bhuntar,Onion,प्याज,Other,4800.00,5200.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Palampur,Onion,प्याज,Onion,4500.00,5000.00,4800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Lalru Apmc,Onion,प्याज,Other,4600.00,4600.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Sonipat,Gohana Apmc,Onion,प्याज,Other,4000.00,4500.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Sonipat,Ganaur Apmc,Onion,प्याज,Onion,4000.00,4500.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Hoshiarpur,Garhshankar (Kotfatuhi) Apmc,Onion,प्याज,Other,3800.00,3800.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Bhatinda,Bhucho Apmc,Onion,प्याज,Onion,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Dera Bassi Apmc,Onion,प्याज,Onion,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ropar (Rupnagar),Ropar Apmc,Onion,प्याज,Nasik,4000.00,4400.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Ahmedgarh Apmc,Onion,प्याज,Other,4000.00,4200.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Tarntaran,Tarantaran Apmc,Onion,प्याज,Other,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Ulundurpet Rm,Onion,प्याज,Bellary,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6400.00,5950.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5600.00,6500.00,6050.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5400.00,5200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6200.00,5600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Singampunari(Uzhavar Sandhai ),Onion,प्याज,Bellary,4400.00,6200.00,5300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,7000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,7000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Jameenrayapettai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Tindivanam Rm,Onion,प्याज,Bellary,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Vellore Rm,Onion,प्याज,Bellary,5200.00,5200.00,5200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nagpur,Apmc Nagpur,Onion,प्याज,White,4500.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Auraiya,Achalda Apmc,Onion,प्याज,Other,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Fatehpur,Fatehpur Apmc,Onion,प्याज,Other,3800.00,3800.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Ratlam,Ratlam Apmc,Onion,प्याज,Onion,1400.00,3730.00,3730.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Anand,Khambhat(Veg Yard Khambhat) Apmc,Onion,प्याज,Other,4000.00,4800.00,4400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) Apmc,Onion,प्याज,Other,3500.00,4700.00,4100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6400.00,5700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kanpur,Kanpur(Grain) Apmc,Onion,प्याज,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Onion,प्याज,Bellary,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Onion,प्याज,Bellary,4000.00,5500.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Bijnor,Dhampur Apmc,Onion,प्याज,Other,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Needamangalam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5400.00,5400.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Jalpaiguri,Belacoba Apmc,Onion,प्याज,Nasik,4500.00,4700.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Onion,प्याज,Bellary,5200.00,6200.00,5700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Onion,प्याज,Bellary,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Guduvancheri(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Sonepur,Birmaharajpur Apmc,Onion,प्याज,Onion,4500.00,5000.00,4800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Onion,प्याज,Bellary,4800.00,5000.00,4900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Mustafabad Apmc,Onion,प्याज,Onion,4000.00,4200.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Darjeeling,Siliguri Apmc,Onion,प्याज,Onion,4400.00,4600.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6200.00,6100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Onion,प्याज,Bellary,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ),Onion,प्याज,Bellary,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Mannargudi I(Uzhavar Sandhai ),Onion,प्याज,Bellary,3600.00,7000.00,5300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Naravarikuppam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rohtak,Rohtak Apmc,Onion,प्याज,Other,1500.00,3000.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Garhwal (Pauri),Kotadwara Apmc,Onion,प्याज,Onion,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Solan,Smy Nalagarh,Onion,प्याज,Other,3000.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Jaisinghpur,Onion,प्याज,Other,4600.00,5200.00,4900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,5800.00,5650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Siddipet,Siddipet(Rythu Bazar),Onion,प्याज,Onion,4500.00,5500.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Chandigarh,Chandigarh,Chandigarh (Grain/F&V) Apmc,Onion,प्याज,Onion,1000.00,4200.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Thirukalukundram(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6200.00,6100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Karnal,Tarori Apmc,Onion,प्याज,Other,3000.00,5000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Agra,Agra Apmc,Onion,प्याज,Other,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Kurukshetra,Shahabad Apmc,Onion,प्याज,Onion,2900.00,4500.00,3850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Muktsar,Malout Apmc,Onion,प्याज,Onion,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Patiala,Rajpura Apmc,Onion,प्याज,Local,3700.00,3900.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kottayam,Ettumanoor Market,Onion,प्याज,Big,5400.00,5800.00,5600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Dhuri Apmc,Onion,प्याज,Other,4000.00,4200.00,4100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anna Nagar(Uzhavar Sandhai ),Onion,प्याज,Bellary,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5600.00,5300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5600.00,5800.00,5700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Onion,प्याज,Bellary,4500.00,6000.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Muthupettai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5400.00,5400.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Onion,प्याज,Bellary,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Devakottai (Uzhavar Sandhai ),Onion,प्याज,Bellary,5400.00,6000.00,5700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5600.00,6000.00,5800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Kknagar(Uzhavar Sandhai ),Onion,प्याज,Bellary,6600.00,6600.00,6600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Onion,प्याज,Bellary,6500.00,6500.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6500.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Onion,प्याज,Bellary,5400.00,6000.00,5700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Madhuranthagam(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kannyiakumari,Myladi(Uzhavar Sandhai ),Onion,प्याज,Bellary,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Udumalpettai Rm,Onion,प्याज,Bellary,5500.00,6500.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Surat,Surat Apmc,Onion,प्याज,Other,1600.00,5300.00,3450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jodhpur,Jodhpur (F&V) Apmc,Onion,प्याज,Medium,1500.00,4500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Chattisgarh,Durg,Durg Apmc,Onion,प्याज,Onion,4200.00,4600.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Navsari,Bilimora Apmc,Onion,प्याज,Nasik,3250.00,5000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Udhamsinghnagar,Rudrapur Apmc,Onion,प्याज,Other,3000.00,4500.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Tiruvallur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6400.00,6200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Chamoli (Gopeshwar),Chamoli Apmc,Onion,प्याज,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Dharapuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,5800.00,5800.00,5800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Rajsamand,Rajsamand Apmc,Onion,प्याज,Onion,2000.00,3000.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tripura,North Tripura,Dasda Apmc,Onion,प्याज,Onion,5600.00,5600.00,5600.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Darjeeling,Karsiyang(Matigara) Apmc,Onion,प्याज,Nasik,5900.00,6100.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Ambala,Shahzadpur Apmc,Onion,प्याज,Onion,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Kaithal,Dhand Apmc,Onion,प्याज,Other,3500.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Onion,प्याज,Bellary,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Perambakkam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,4000.00,6000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Pmy Kangra,Onion,प्याज,Onion,4800.00,5200.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Angul,Talcher Apmc,Onion,प्याज,Other,4000.00,4900.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Mehdipatnam,Onion,प्याज,1st Sort,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Guna,Guna(F&V) Apmc,Onion,प्याज,Other,3400.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bolangir,Tusura Apmc,Onion,प्याज,Other,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jaipur,Bassi Apmc,Onion,प्याज,Other,4800.00,5000.00,4900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Khandwa,Khandwa Apmc,Onion,प्याज,Local,2300.00,2300.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Supaul,Triveniganj Apmc,Onion,प्याज,1st Sort,4200.00,4200.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Jwalaji,Onion,प्याज,Other,4800.00,5200.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Mandi,Smy Dhanotu,Onion,प्याज,Onion,4400.00,4600.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Dehradoon,Rishikesh Apmc,Onion,प्याज,Other,3400.00,4200.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Hissar,Hansi Apmc,Onion,प्याज,Other,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Amritsar,Rayya Apmc,Onion,प्याज,Red,4125.00,4125.00,4125.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Mandi,Smy Jogindernagar,Onion,प्याज,Local,5000.00,5200.00,5100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Falaknuma,Onion,प्याज,Onion,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Bhatinda,Bhagta Bhai Ka Apmc,Onion,प्याज,Other,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Gurdaspur,Quadian Apmc,Onion,प्याज,Other,3200.00,3500.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Panchkula,"New Grain Market , Panchkula Apmc",Onion,प्याज,Other,4600.00,4800.00,4700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Beawar,Bijaynagar Apmc,Onion,प्याज,Other,1500.00,3400.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thuraiyur Rm,Onion,प्याज,Bellary,5500.00,6500.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Hanumangarh,Goluwala Apmc,Onion,प्याज,1st Sort,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Porbandar,Porbandar Apmc,Onion,प्याज,Other,3500.00,4500.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Onion,प्याज,Bellary,5800.00,6200.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Onion,प्याज,Bellary,4000.00,5500.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6500.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ),Onion,प्याज,Bellary,5600.00,5600.00,5600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Ngo Colony(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Kangayam(Uzhavar Sandhai ),Onion,प्याज,Bellary,5200.00,5500.00,5350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5300.00,5150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),Onion,प्याज,Bellary,5000.00,7000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Sivagangai (Uzhavar Sandhai ),Onion,प्याज,Bellary,5400.00,6500.00,5950.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Onion,प्याज,Bellary,6500.00,6500.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Thirupathur Rm,Onion,प्याज,Bellary,5500.00,5500.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Sabarkantha,Himatnagar(Veg.Market Himatnagar) Apmc,Onion,प्याज,Onion,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Anand,"Anand(Veg,Yard,Anand) Apmc",Onion,प्याज,Onion,3500.00,4500.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Udhamsinghnagar,Kicchha Apmc,Onion,प्याज,Nasik,1000.00,1200.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Onion,प्याज,Local,1000.00,4400.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Satara,Apmc Satara,Onion,प्याज,Other,2000.00,4500.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Onion,प्याज,Bellary,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Sahnewal Apmc,Onion,प्याज,Onion,4700.00,4700.00,4700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hardoi,Sandila Apmc,Onion,प्याज,Other,2000.00,3500.00,2353.68,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Vedasandur(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6200.00,6100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Fazilka,Jalalabad Apmc,Onion,प्याज,Other,4100.00,4400.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),Onion,प्याज,Bellary,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Ambattur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Kovilpatti(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5400.00,5400.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rewari,Rewari Apmc,Onion,प्याज,Medium,3500.00,5800.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Jammu And Kashmir,Rajouri,Rajouri (Phaliana) (F&V),Onion,प्याज,Onion,5500.00,5500.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Samrala Apmc,Onion,प्याज,Other,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Dhenkanal,Hindol Apmc,Onion,प्याज,Other,4500.00,5000.00,4800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kottayam,Pampady Market,Onion,प्याज,Onion,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Ambala,Naraingarh Apmc,Onion,प्याज,Onion,2700.00,3000.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Fatehgarh,Sirhind Apmc,Onion,प्याज,Other,3500.00,4500.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Onion,प्याज,Bellary,5500.00,6500.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Jind,Narwana Apmc,Onion,प्याज,Onion,3300.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Fatehabad,Jakhal Apmc,Onion,प्याज,Other,3300.00,3300.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Alappuzha,Chengannur Market,Onion,प्याज,Small,10200.00,10500.00,10400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Thiruchengodu Rm,Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Rspuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,4800.00,5200.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard) Apmc,Onion,प्याज,Onion,1705.00,4405.00,3055.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5400.00,5200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Onion,प्याज,Bellary,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Bhopal,Bhopal Apmc,Onion,प्याज,Onion,600.00,4500.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Assam,Tinsukia,Tinsukia Market,Onion,प्याज,Onion,4800.00,5300.00,5200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kannyiakumari,Vadaseri Rm,Onion,प्याज,Bellary,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Onion,प्याज,Bellary,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bargarh,Bargarh Apmc,Onion,प्याज,Onion,2500.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Chamba,Pmy Chamba,Onion,प्याज,Onion,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bolangir,Bolangir Apmc,Onion,प्याज,Other,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Tarntaran,Patti Apmc,Onion,प्याज,Other,0.01,0.01,0.01,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Gurgaon,Sohna Apmc,Onion,प्याज,Onion,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kozhikode(Calicut),Mukkom Market,Onion,प्याज,Onion,5200.00,5500.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jaipur,Jaipur (F&V) Apmc,Onion,प्याज,Other,2500.00,5000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Hanumangarh,Rawatsar Apmc,Onion,प्याज,1st Sort,1300.00,2400.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Khanna Apmc,Onion,प्याज,Onion,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kozhikode(Calicut),Kallachi Market,Onion,प्याज,Big,5000.00,5400.00,5200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Patiala,Patiala Apmc,Onion,प्याज,Onion,4400.00,5500.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Ernakulam,Perumbavoor Market,Onion,प्याज,Onion,4500.00,5500.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6600.00,6300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Palayamkottai(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Karaikudi(Uzhavar Sandhai ),Onion,प्याज,Bellary,5800.00,6800.00,6300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5400.00,6500.00,5950.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Bilaspur,Pmy Bilaspur,Onion,प्याज,Other,4400.00,4800.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Fatehabad,Fatehabad Apmc,Onion,प्याज,Other,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Panchkula,Panchkul(Kalka) Apmc,Onion,प्याज,Other,4600.00,4800.00,4700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Varanasi,Varanasi Apmc,Onion,प्याज,Other,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Roorkee Apmc,Onion,प्याज,Other,3500.00,5500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Onion,प्याज,Bellary,4800.00,6000.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,East Champaran/ Motihari,Raxaul Apmc,Onion,प्याज,1st Sort,4100.00,4300.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Madhubani,Benipatti Apmc,Onion,प्याज,Bombay (U.P.),4700.00,4800.00,4700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Tiruthani(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Bulandshahar,Buland Shahr Apmc,Onion,प्याज,Other,2800.00,2820.00,2813.75,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dhar,Kukshi(F&V) Apmc,Onion,प्याज,Onion,1800.00,3000.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Onion,प्याज,Bellary,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Onion,प्याज,Bellary,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) Apmc,Onion,प्याज,Onion,505.00,3830.00,2615.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Vadodara(Baroda),Padra Apmc,Onion,प्याज,Other,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Jagadhri Apmc,Onion,प्याज,Other,2500.00,3500.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Chhachrauli Apmc,Onion,प्याज,Onion,4600.00,4800.00,4800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Hissar,Barwala(Hisar) Apmc,Onion,प्याज,Onion,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Hamirpur,Smy Nadaun,Onion,प्याज,Other,4800.00,5000.00,4900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Nagrota Bagwan,Onion,प्याज,Onion,4700.00,5100.00,4900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Una,Smy Santoshgarh,Onion,प्याज,Onion,4200.00,4500.00,4350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Mumbai,Mumbai-Onion & Potato Market,Onion,प्याज,Other,3000.00,5000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Kurnool,Kurnool Apmc,Onion,प्याज,Local,767.00,4088.00,4088.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Jaunpur,Jaunpur Apmc,Onion,प्याज,Other,3700.00,3700.00,3700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6400.00,6200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Mannargudi Ii(Uzhavar Sandhai ),Onion,प्याज,Bellary,3600.00,7000.00,5300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Solan,Pmy Kather Solan,Onion,प्याज,Other,4000.00,4500.00,4300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jaisalmer,Jaisalmer Apmc,Onion,प्याज,Onion,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Harda,Harda(F&V) Apmc,Onion,प्याज,Medium,3000.00,3500.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Onion,प्याज,Bellary,4800.00,6000.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Haridwar Union Apmc,Onion,प्याज,Onion,3500.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Hoshiarpur,Tanda Urmur Apmc,Onion,प्याज,Nasik,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Sundergarh,Sargipali Apmc,Onion,प्याज,Other,4500.00,5000.00,4800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5400.00,5200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Gurgaon,Gurgaon Apmc,Onion,प्याज,Other,4000.00,4400.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rohtak,Meham,Onion,प्याज,Medium,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Ysr Kadapa,Yerraguntla Apmc,Onion,प्याज,Local,3000.00,3400.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Onion,प्याज,Bellary,6000.00,6400.00,6200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad Apmc,Onion,प्याज,Other,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Onion,प्याज,Bellary,5000.00,5300.00,5150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Assam,Kamrup,Pamohi(Garchuk) Apmc,Onion,प्याज,Local,5200.00,6000.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Onion,प्याज,Bellary,4500.00,5500.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Madhubani,Madhubani Apmc,Onion,प्याज,Nasik,4500.00,4700.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Bhojpur,Aarah Apmc,Onion,प्याज,Other,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Banka,Barahat Apmc,Onion,प्याज,Medium,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Hamirpur,Pmy Hamirpur,Onion,प्याज,Other,4600.00,4800.00,4700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Dharamshala,Onion,प्याज,Onion,4500.00,4700.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jalore,Jalore Apmc,Onion Green,Onion Green,Onion Green,1500.00,1800.00,1700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,11000.00,10500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7500.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Kandiyaperi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7500.00,11000.00,9250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7500.00,8000.00,7750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6000.00,9000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thenkasi,Tenkasi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7500.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8500.00,9000.00,8750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7500.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Shimla,Smy Rampur,Onion Green,Onion Green,Onion Green,6000.00,6500.00,6200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,8500.00,9000.00,8750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,10000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Mannargudi I(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10400.00,10400.00,10400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kannyiakumari,Vadaseri Rm,Onion Green,Onion Green,Onion Green,10000.00,11000.00,10500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Ulundurpet Rm,Onion Green,Onion Green,Onion Green,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Tiruppur (South) (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,10000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Periyar Nagar(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6500.00,7500.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,5000.00,7000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7500.00,8000.00,7750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Ngo Colony(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,11000.00,10500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,9000.00,9000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,9500.00,9250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6500.00,8000.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Madhuranthagam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Udumalpettai Rm,Onion Green,Onion Green,Onion Green,7000.00,10000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) Apmc,Onion Green,Onion Green,Other,1500.00,3500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,9000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7500.00,8000.00,7750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thenkasi,Sankarankoil(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7500.00,8000.00,7750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Tiruthani(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Vedasandur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7500.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6500.00,8000.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7500.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7400.00,7200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6000.00,7500.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8500.00,9000.00,8750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8500.00,9000.00,8750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anna Nagar(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9400.00,9400.00,9400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7600.00,7300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,5600.00,5800.00,5700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Palayamkottai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,11000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,12000.00,11000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Sivagangai (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,9500.00,9250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,9000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kannyiakumari,Myladi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,11000.00,10500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Mumbai,Apmc Mumbai,Onion Green,Onion Green,Other,1000.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7500.00,7500.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Needamangalam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8500.00,9000.00,8750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Dharapuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,4000.00,9500.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8400.00,8800.00,8600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8400.00,8200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6000.00,8000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Mannargudi Ii(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10400.00,10400.00,10400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Kovilpatti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,11000.00,10500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8400.00,8800.00,8600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Thiruchengodu Rm,Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8400.00,8800.00,8600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,10000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,11000.00,10500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,11000.00,10500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,4800.00,8500.00,6650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,4000.00,8500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,10000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6500.00,9500.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8500.00,9000.00,8750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Mecheri(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,5000.00,7500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7500.00,11000.00,9250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,10000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Muthupettai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6500.00,6500.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Devakottai (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,9500.00,9250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7400.00,7800.00,7600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Singampunari(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8600.00,9000.00,8800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,12000.00,13000.00,12500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Thirupathur Rm,Onion Green,Onion Green,Onion Green,7500.00,7500.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7800.00,8500.00,8150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9600.00,10800.00,10200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6000.00,6400.00,6200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,8000.00,8000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9600.00,10800.00,10200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8400.00,8200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7500.00,8000.00,7750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thuraiyur Rm,Onion Green,Onion Green,Onion Green,7000.00,9000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6600.00,7000.00,6800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7600.00,7600.00,7600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Kangayam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7200.00,7500.00,7350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8800.00,8400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Pallapatti (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,10000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Vengamedu(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9500.00,10000.00,9750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7500.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7600.00,7300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7600.00,7800.00,7700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Karaikudi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8800.00,9400.00,9100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7600.00,8400.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Kknagar(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,9000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Valangaiman Rm,Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Vellore Rm,Onion Green,Onion Green,Onion Green,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Dahod,Dahod(Veg. Market) Apmc,Onion Green,Onion Green,Onion Green,2000.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Surendranagar,Vadhvan Apmc,Onion Green,Onion Green,Onion Green,1000.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,7000.00,7500.00,7250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,10000.00,9500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,9000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Palladam(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Hissar,Barwala(Hisar) Apmc,Onion Green,Onion Green,Onion Green,4500.00,5000.00,4800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6500.00,7500.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8500.00,8800.00,8650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9000.00,9000.00,9000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,9000.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Rspuram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8200.00,8800.00,8500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,8000.00,8800.00,8400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,9500.00,10000.00,9750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Thirukalukundram(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,10000.00,10000.00,10000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Onion Green,Onion Green,Onion Green,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Falaknuma,Tomato,टमाटर,Tomato,2700.00,2700.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kannur,Thalasserry Market,Tomato,टमाटर,Other,2500.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bolangir,Kantabaji Apmc,Tomato,टमाटर,Other,2500.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Bhatinda,Bhucho Apmc,Tomato,टमाटर,Other,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Jammu And Kashmir,Jammu,Mac F&V Market Narwal Jammu,Tomato,टमाटर,Tomato,1500.00,2000.00,1750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Periyar Nagar(Uzhavar Sandhai ),Tomato,टमाटर,Other,2800.00,3000.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Tomato,टमाटर,Other,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Tomato,टमाटर,Local,2500.00,3200.00,2850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Tomato,टमाटर,Local,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Tomato,टमाटर,Local,3300.00,3600.00,3450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2800.00,3500.00,3150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Valangaiman Rm,Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Vellore Rm,Tomato,टमाटर,Deshi,2800.00,3000.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Agra,Achnera Apmc,Tomato,टमाटर,Other,2000.00,2000.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) Apmc,Tomato,टमाटर,Other,700.00,2200.00,1450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Fatehabad,Fatehabad Apmc,Tomato,टमाटर,Other,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Roorkee Apmc,Tomato,टमाटर,Other,1200.00,2200.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Tomato,टमाटर,Other,2400.00,2800.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Satara,Apmc Satara,Tomato,टमाटर,Other,800.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Annamayya,Guramkonda Sub-Yard Of Amc Valmikipuram,Tomato,टमाटर,Hybrid,1666.00,2800.00,2200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Sitapur,Sidhauli Apmc,Tomato,टमाटर,Other,1700.00,1700.00,1700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Tiruvarur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Tiruvallur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Tomato,टमाटर,Other,2600.00,3000.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Badwani,Sendhwa(F&V) Apmc,Tomato,टमाटर,Hybrid,1100.00,1400.00,1300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Jalaun (Orai),Jalaun Apmc,Tomato,टमाटर,Other,1500.00,1500.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Mathura,Mathura Apmc,Tomato,टमाटर,Other,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3200.00,2850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Tomato,टमाटर,Other,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Rajsamand,Rajsamand Apmc,Tomato,टमाटर,Tomato,1000.00,1800.00,1400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Nagrota Bagwan,Tomato,टमाटर,Tomato,2000.00,2200.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kullu,Smy Chauri Bihal,Tomato,टमाटर,Other,600.00,1800.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Una,Smy Santoshgarh,Tomato,टमाटर,Tomato,2000.00,2400.00,2200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Kalahandi,Junagarh Apmc,Tomato,टमाटर,Other,2800.00,3400.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2000.00,2500.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Kovilpatti(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Boudh,Boudh Apmc,Tomato,टमाटर,Other,3500.00,4500.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Angul,Talcher Apmc,Tomato,टमाटर,Other,2500.00,3400.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Tomato,टमाटर,Local,2600.00,3200.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Erragadda,Tomato,टमाटर,Deshi,2700.00,2700.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Shamli,Kairana Apmc,Tomato,टमाटर,Other,1800.00,2000.00,1843.75,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Siddipet,Siddipet(Rythu Bazar),Tomato,टमाटर,Local,2500.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Buxar,Buxur Apmc,Tomato,टमाटर,Deshi,2785.00,2792.00,2789.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Morena,Morena Apmc,Tomato,टमाटर,Deshi,1500.00,1500.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Hamirpur,Pmy Hamirpur,Tomato,टमाटर,Tomato,2400.00,2600.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Lalru Apmc,Tomato,टमाटर,Deshi,3800.00,3800.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Amritsar,Rayya Apmc,Tomato,टमाटर,Other,685.00,685.00,685.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Mayurbhanja,Baripada Apmc,Tomato,टमाटर,Tomato,3000.00,3500.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Rayagada,Gunpur Apmc,Tomato,टमाटर,Local,2340.00,3450.00,2950.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Bhatinda,Bhagta Bhai Ka Apmc,Tomato,टमाटर,Other,3100.00,3100.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Kurukshetra,Shahabad Apmc,Tomato,टमाटर,Tomato,1500.00,2200.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,टमाटर,Local,2600.00,2800.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Tomato,टमाटर,Other,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Tomato,टमाटर,Local,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anna Nagar(Uzhavar Sandhai ),Tomato,टमाटर,Other,3800.00,3800.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Tomato,टमाटर,Local,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Tomato,टमाटर,Other,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3200.00,2850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2000.00,2500.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Pallapatti (Uzhavar Sandhai ),Tomato,टमाटर,Other,3200.00,3500.00,3350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Devakottai (Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3200.00,3600.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Kknagar(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3800.00,3800.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3600.00,3600.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Tomato,टमाटर,Other,3600.00,3600.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Kharar Apmc,Tomato,टमाटर,Tomato,2000.00,4000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Madhuranthagam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Jameenrayapettai(Uzhavar Sandhai ),Tomato,टमाटर,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Udumalpettai Rm,Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Dahod,Dahod(Veg. Market) Apmc,Tomato,टमाटर,Tomato,500.00,1300.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Chattisgarh,Durg,Durg Apmc,Tomato,टमाटर,Local,1800.00,2000.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Satara,Apmc Patan,Tomato,टमाटर,Other,1750.00,1950.00,1850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thenkasi,Tenkasi(Uzhavar Sandhai ),Tomato,टमाटर,Local,2000.00,2500.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Needamangalam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sagar,Khurai(F&V) Apmc,Tomato,टमाटर,Tomato,1000.00,1400.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Guduvancheri(Uzhavar Sandhai ),Tomato,टमाटर,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Dharapuram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3200.00,2850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Kaithal,Dhand Apmc,Tomato,टमाटर,Other,2000.00,2400.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hardoi,Hardoi Apmc,Tomato,टमाटर,Other,1500.00,1500.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Mannargudi I(Uzhavar Sandhai ),Tomato,टमाटर,Other,3200.00,3200.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Mannargudi Ii(Uzhavar Sandhai ),Tomato,टमाटर,Other,3200.00,3200.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rohtak,Rohtak Apmc,Tomato,टमाटर,Other,2000.00,3000.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Ambala,Naraingarh Apmc,Tomato,टमाटर,Tomato,1000.00,2000.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3600.00,3800.00,3700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Cuttack,Banki Apmc,Tomato,टमाटर,Tomato,2500.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Jind,Narwana Apmc,Tomato,टमाटर,Tomato,2000.00,2500.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Doraha Apmc,Tomato,टमाटर,Deshi,1800.00,2500.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Tomato,टमाटर,Local,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Gurgaon,Gurgaon Apmc,Tomato,टमाटर,Other,1000.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Mehdipatnam,Tomato,टमाटर,Deshi,2700.00,2700.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bolangir,Tusura Apmc,Tomato,टमाटर,Other,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Adilabad,Adilabad (Rythu Bazar),Tomato,टमाटर,Local,3500.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3200.00,3200.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Thirukalukundram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Assam,Tinsukia,Tinsukia Market,Tomato,टमाटर,Tomato,2500.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kannyiakumari,Vadaseri Rm,Tomato,टमाटर,Local,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kullu,Smy Bhuntar,Tomato,टमाटर,Other,1500.00,2000.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Karnal,Tarori Apmc,Tomato,टमाटर,Other,3000.00,4500.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bolangir,Bolangir Apmc,Tomato,टमाटर,Other,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Tarntaran,Patti Apmc,Tomato,टमाटर,Other,0.01,0.01,0.01,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Dehradoon,Vikasnagar Apmc,Tomato,टमाटर,Other,700.00,1200.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Manglaur Apmc,Tomato,टमाटर,Other,1000.00,1500.00,1300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Hissar,Hansi Apmc,Tomato,टमाटर,Other,2000.00,3000.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Annamayya,Kalikiri Apmc,Tomato,टमाटर,Hybrid,2000.00,2800.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Sonipat,Ganaur Apmc,Tomato,टमाटर,Tomato,3000.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Gurdaspur,Quadian Apmc,Tomato,टमाटर,Other,3600.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Hanumangarh,Rawatsar Apmc,Tomato,टमाटर,Deshi,1500.00,2200.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Patiala,Patiala Apmc,Tomato,टमाटर,Tomato,2200.00,2600.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Ahmedgarh Apmc,Tomato,टमाटर,Other,2800.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Dhuri Apmc,Tomato,टमाटर,Other,1600.00,1800.00,1700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Ulundurpet Rm,Tomato,टमाटर,Deshi,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Gurdaspur,Batala Apmc,Tomato,टमाटर,Other,3000.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Tomato,टमाटर,Other,1500.00,2600.00,2050.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Tomato,टमाटर,Other,4300.00,4500.00,4400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Ngo Colony(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ),Tomato,टमाटर,Other,2400.00,3000.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3400.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2800.00,3000.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kannyiakumari,Myladi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Ahilyanagar,Apmc Shrirampur,Tomato,टमाटर,Other,1000.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Ahilyanagar,Apmc Rahuri,Tomato,टमाटर,Other,500.00,1500.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Thirupathur Rm,Tomato,टमाटर,Deshi,3400.00,3400.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Sabarkantha,Himatnagar(Veg.Market Himatnagar) Apmc,Tomato,टमाटर,Tomato,500.00,1000.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) Apmc,Tomato,टमाटर,Tomato,1000.00,1000.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Surendranagar,Vadhvan Apmc,Tomato,टमाटर,Tomato,1500.00,2000.00,1750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hardoi,Shahabad(New Mandi) Apmc,Tomato,टमाटर,Other,2000.00,2010.00,2001.76,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Warangal,Warangal Apmc,Tomato,टमाटर,Tomato,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Pune,Khed(Chakan),Tomato,टमाटर,Other,500.00,1000.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Udhamsinghnagar,Kicchha Apmc,Tomato,टमाटर,Hybrid,2200.00,2400.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Ratnagiri,Apmc Ratnagiri (Nachane),Tomato,टमाटर,Other,700.00,1000.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thenkasi,Sankarankoil(Uzhavar Sandhai ),Tomato,टमाटर,Local,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dhar,Kukshi(F&V) Apmc,Tomato,टमाटर,Tomato,500.00,1300.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3200.00,3200.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ),Tomato,टमाटर,Other,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Badwani,Badwani(F&V) Apmc,Tomato,टमाटर,Tomato,800.00,800.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Annamayya,B.Kothakota H/Q Angallu,Tomato,टमाटर,Local,2000.00,2800.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Tomato,टमाटर,Deshi,3600.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Palladam(Uzhavar Sandhai ),Tomato,टमाटर,Local,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Sahnewal Apmc,Tomato,टमाटर,Tomato,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Annamayya,Mulakalacheruvu Apmc,Tomato,टमाटर,Local,1200.00,2500.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Vedasandur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Jagadhri Apmc,Tomato,टमाटर,Tomato,1400.00,2500.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Chhachrauli Apmc,Tomato,टमाटर,Tomato,2000.00,2900.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Hamirpur,Smy Nadaun,Tomato,टमाटर,Other,4200.00,4400.00,4300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3800.00,3650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3800.00,3650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ),Tomato,टमाटर,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Ambattur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Chittor,Palamaner Apmc,Tomato,टमाटर,Tomato,2000.00,2600.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Jhajar,Jhajjar Apmc,Tomato,टमाटर,Other,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Balasore,Nilagiri Apmc,Tomato,टमाटर,Other,4100.00,4200.00,4200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Tomato,टमाटर,Deshi,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Khandwa,Khandwa(F&V) Apmc,Tomato,टमाटर,Tomato,500.00,800.00,631.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Mahendragarh-Narnaul,Narnaul Apmc,Tomato,टमाटर,Tomato,1500.00,3000.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Amroha,Amroha Apmc,Tomato,टमाटर,Other,1200.00,1500.00,1288.37,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Udhamsinghnagar,Sitarganj Apmc,Tomato,टमाटर,Tomato,1800.00,2200.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Gajapati,Parlakhemundi Apmc,Tomato,टमाटर,Local,800.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Solan,Smy Nalagarh,Tomato,टमाटर,Other,1200.00,2500.00,1900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3800.00,3650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Guna,Guna(F&V) Apmc,Tomato,टमाटर,Other,1000.00,1200.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Rspuram(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard) Apmc,Tomato,टमाटर,Tomato,895.00,1925.00,1410.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Chittor,V. Kota Sub-Yard Of Amc Palamaneru,Tomato,टमाटर,Other,2000.00,2600.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Assam,Kamrup,Pamohi(Garchuk) Apmc,Tomato,टमाटर,Local,2200.00,3000.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Sambalpur,Sambalpur Apmc,Tomato,टमाटर,Other,1800.00,1900.00,1850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Mandi,Smy Jogindernagar,Tomato,टमाटर,Other,2000.00,2200.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Annamayya,Somala Apmc,Tomato,टमाटर,Tomato,800.00,1200.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Hanumangarh,Goluwala Apmc,Tomato,टमाटर,Deshi,1500.00,1500.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Khanna Apmc,Tomato,टमाटर,Tomato,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Patiala,Rajpura Apmc,Tomato,टमाटर,Local,2000.00,2200.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Ernakulam,Perumbavoor Market,Tomato,टमाटर,Tomato,3000.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kottayam,Ettumanoor Market,Tomato,टमाटर,Tomato,3400.00,4200.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Tarntaran,Tarantaran Apmc,Tomato,टमाटर,Other,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Tiruppur (South) (Uzhavar Sandhai ),Tomato,टमाटर,Local,2400.00,2800.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3600.00,3800.00,3700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2000.00,3000.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Tomato,टमाटर,Other,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2800.00,3800.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3400.00,3800.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Tomato,टमाटर,Other,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Mecheri(Uzhavar Sandhai),Tomato,टमाटर,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3400.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Tomato,टमाटर,Other,3400.00,3500.00,3450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Kandiyaperi(Uzhavar Sandhai ),Tomato,टमाटर,Other,4300.00,4500.00,4400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2000.00,2500.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Tomato,टमाटर,Other,2800.00,3000.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Singampunari(Uzhavar Sandhai ),Tomato,टमाटर,Other,3200.00,3400.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Karaikudi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3400.00,3600.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3600.00,3600.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3400.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Tomato,टमाटर,Other,3600.00,3600.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Mumbai,Apmc Mumbai,Tomato,टमाटर,Other,600.00,1200.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nagpur,Apmc Kamthi,Tomato,टमाटर,Local,2000.00,2500.00,2350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol) Apmc",Tomato,टमाटर,Other,2000.00,2750.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Anand,"Anand(Veg,Yard,Anand) Apmc",Tomato,टमाटर,Tomato,500.00,1000.00,750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Amreli,Damnagar Apmc,Tomato,टमाटर,Local,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Raigad,Apmc Panvel,Tomato,टमाटर,Other,2000.00,2500.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nagpur,Apmc Kalmeshwar,Tomato,टमाटर,Other,1015.00,1500.00,1305.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2000.00,2400.00,2200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3300.00,3150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Bijnor,Dhampur Apmc,Tomato,टमाटर,Other,1600.00,1600.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Navsari,Bilimora Apmc,Tomato,टमाटर,Other,1000.00,1500.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Udhamsinghnagar,Rudrapur Apmc,Tomato,टमाटर,Other,2000.00,2500.00,2200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Pillibhit,Bishalpur Apmc,Tomato,टमाटर,Other,1500.00,1500.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Bulandshahar,Buland Shahr Apmc,Tomato,टमाटर,Other,1600.00,1600.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Tomato,टमाटर,Local,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Mathura,Kosikalan Apmc,Tomato,टमाटर,Deshi,2060.00,2160.00,2120.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Amethi,Sultanpur Apmc,Tomato,टमाटर,Other,1200.00,1200.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Sonepur,Birmaharajpur Apmc,Tomato,टमाटर,Local,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Darjeeling,Darjeeling Apmc,Tomato,टमाटर,Other,3500.00,3700.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Ambala,Shahzadpur Apmc,Tomato,टमाटर,Tomato,1500.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Fazilka,Jalalabad Apmc,Tomato,टमाटर,Tomato,1800.00,2000.00,1900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Tomato,टमाटर,Deshi,2200.00,2500.00,2350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3800.00,3650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Perambakkam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rewari,Rewari Apmc,Tomato,टमाटर,Other,700.00,2500.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Annamayya,Valmikipuram Apmc,Tomato,टमाटर,Hybrid,1666.00,2800.00,2200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Haridwar Union Apmc,Tomato,टमाटर,Tomato,1500.00,2000.00,1700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Hoshiarpur,Garh Shankar Apmc,Tomato,टमाटर,Deshi,2300.00,2300.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Hoshiarpur,Tanda Urmur Apmc,Tomato,टमाटर,Tomato,2000.00,2500.00,2200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Sundergarh,Sargipali Apmc,Tomato,टमाटर,Other,2600.00,3000.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Mayurbhanja,Betnoti Apmc,Tomato,टमाटर,Tomato,3000.00,3400.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Mayurbhanja,Saraskana Apmc,Tomato,टमाटर,Tomato,3500.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Jaisinghpur,Tomato,टमाटर,Tomato,2100.00,2400.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Agra,Fatehpur Sikri Apmc,Tomato,टमाटर,Other,1600.00,1600.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Shivpuri,Shivpuri(F&V) Apmc,Tomato,टमाटर,Other,1000.00,1000.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Betul,Betul(F&V) Apmc,Tomato,टमाटर,Local,400.00,800.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bargarh,Bargarh(Barapalli) Apmc,Tomato,टमाटर,Tomato,3500.00,4500.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Nayagarh,Sarankul Apmc,Tomato,टमाटर,Other,3200.00,3400.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ),Tomato,टमाटर,Local,2500.00,3200.00,2850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Kaimur/Bhabhua,Mohana Apmc,Tomato,टमाटर,Hybrid,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2000.00,3000.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Chamba,Pmy Chamba,Tomato,टमाटर,Tomato,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Gurgaon,Sohna Apmc,Tomato,टमाटर,Tomato,2000.00,3000.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kozhikode(Calicut),Mukkom Market,Tomato,टमाटर,Tomato,4400.00,4800.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Mandsaur,Garoth(F&V) Apmc,Tomato,टमाटर,Tomato,1200.00,1300.00,1250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jaipur,Jaipur (F&V) Apmc,Tomato,टमाटर,Other,1100.00,2200.00,1650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thuraiyur Rm,Tomato,टमाटर,Other,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jalore,Jalore Apmc,Tomato,टमाटर,Tomato,1200.00,1500.00,1300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kozhikode(Calicut),Kallachi Market,Tomato,टमाटर,Tomato,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Dera Bassi Apmc,Tomato,टमाटर,Other,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Muktsar,Malout Apmc,Tomato,टमाटर,Tomato,1900.00,1900.00,1900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ropar (Rupnagar),Ropar Apmc,Tomato,टमाटर,Other,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Malerkotla Apmc,Tomato,टमाटर,Other,1000.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Porbandar,Porbandar Apmc,Tomato,टमाटर,Deshi,1500.00,2500.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Tomato,टमाटर,Other,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2000.00,2000.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Tomato,टमाटर,Other,3200.00,3400.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Ambasamudram(Uzhavar Sandhai ),Tomato,टमाटर,Local,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Palayamkottai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,4300.00,4500.00,4400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Kangayam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2900.00,3200.00,3050.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Muthupettai(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),Tomato,टमाटर,Deshi,3600.00,3600.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Vengamedu(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Sivagangai (Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3200.00,3500.00,3350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Tomato,टमाटर,Other,3000.00,3400.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Tomato,टमाटर,Other,3200.00,3500.00,3350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3600.00,3600.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Medavakkam(Uzhavar Sandhai ),Tomato,टमाटर,Other,2000.00,2500.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Tindivanam Rm,Tomato,टमाटर,Deshi,2400.00,2400.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Fatehpur,Fatehpur Apmc,Tomato,टमाटर,Other,2300.00,2300.00,2300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Navsari,Navsari Apmc,Tomato,टमाटर,Tomato,500.00,1300.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Anand,Khambhat(Veg Yard Khambhat) Apmc,Tomato,टमाटर,Other,1500.00,2200.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Bilaspur,Pmy Bilaspur,Tomato,टमाटर,Other,1600.00,2400.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Gondal(Veg.Market Gondal) Apmc,Tomato,टमाटर,Tomato,700.00,2500.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Surat,Surat Apmc,Tomato,टमाटर,Other,500.00,1300.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Chittor,Kuppam Apmc,Tomato,टमाटर,Tomato,900.00,1212.00,1212.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Varanasi,Varanasi Apmc,Tomato,टमाटर,Other,2000.00,2000.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3200.00,3600.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Chhatarpur,Chhatarpur (F&V) Apmc,Tomato,टमाटर,Other,1200.00,1200.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Tiruthani(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dhar,Manawar(F&V) Apmc,Tomato,टमाटर,Tomato,900.00,1200.00,955.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Tomato,टमाटर,Deshi,2000.00,2500.00,2250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Pune,Pune(Pimpri),Tomato,टमाटर,Local,1200.00,1700.00,1450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,3500.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Pathankot,Pathankot Apmc,Tomato,टमाटर,Tomato,2000.00,2000.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Andhra Pradesh,Annamayya,Madanapalli Apmc,Tomato,टमाटर,Local,2400.00,3300.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Darjeeling,Karsiyang(Matigara) Apmc,Tomato,टमाटर,Other,3500.00,3700.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Vadodara(Baroda),Padra Apmc,Tomato,टमाटर,Other,1000.00,1500.00,1050.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Mustafabad Apmc,Tomato,टमाटर,Other,2200.00,2500.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Hissar,Barwala(Hisar) Apmc,Tomato,टमाटर,Tomato,1700.00,2000.00,1900.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Medinipur(E),Egra/Contai Apmc,Tomato,टमाटर,Tomato,1800.00,2000.00,1900.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Darjeeling,Siliguri Apmc,Tomato,टमाटर,Tomato,2500.00,2700.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Tomato,टमाटर,Other,2800.00,3000.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kullu,Smy Bandrol,Tomato,टमाटर,Other,1200.00,2000.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Kamuthi(Uzhavar Sandhai ),Tomato,टमाटर,Other,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Naravarikuppam(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Paruthipattu(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Solan,Pmy Kather Solan,Tomato,टमाटर,Other,400.00,2500.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Dhenkanal,Hindol Apmc,Tomato,टमाटर,Tomato,2800.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Harda,Harda(F&V) Apmc,Tomato,टमाटर,Deshi,1000.00,1400.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Fatehgarh,Sirhind Apmc,Tomato,टमाटर,Other,2500.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Pmy Kangra,Tomato,टमाटर,Tomato,2000.00,2200.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Fatehabad,Jakhal Apmc,Tomato,टमाटर,Tomato,1800.00,1800.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Alappuzha,Chengannur Market,Tomato,टमाटर,Tomato,3700.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rohtak,Meham,Tomato,टमाटर,Tomato,2500.00,3000.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Kalahandi,Kalahandi(Dharamagarh) Apmc,Tomato,टमाटर,Other,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Gurdaspur,Kalanaur Apmc,Tomato,टमाटर,Tomato,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Thiruchengodu Rm,Tomato,टमाटर,Deshi,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Tomato,टमाटर,Local,2800.00,3200.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Chandigarh,Chandigarh,Chandigarh (Grain/F&V) Apmc,Tomato,टमाटर,Tomato,320.00,1880.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jaipur,Bassi Apmc,Tomato,टमाटर,Other,4000.00,4200.00,4100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Madhubani,Madhubani Apmc,Tomato,टमाटर,Tomato,3500.00,3700.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Tomato,टमाटर,Deshi,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Supaul,Supaul Apmc,Tomato,टमाटर,Hybrid,3400.00,3800.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Tomato,टमाटर,Local,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Tomato,टमाटर,Local,3200.00,3500.00,3350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Mandi,Smy Dhanotu,Tomato,टमाटर,Tomato,1500.00,2000.00,1750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Palampur,Tomato,टमाटर,Tomato,2000.00,2200.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Sonipat,Gohana Apmc,Tomato,टमाटर,Other,2000.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Dharamshala,Tomato,टमाटर,Tomato,2000.00,2300.00,2150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Alappuzha,Cherthala Market,Potato,आलू,Potato,3200.00,3800.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rewari,Kosli Apmc,Potato,आलू,Other,1000.00,1000.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Beawar,Bijaynagar Apmc,Potato,आलू,Other,500.00,1100.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Hanumangarh,Goluwala Apmc,Potato,आलू,Red Nanital,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kozhikode(Calicut),Kallachi Market,Potato,आलू,Other,2200.00,2600.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Dera Bassi Apmc,Potato,आलू,Potato,1600.00,1600.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Potato,आलू,Other,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Potato,आलू,Other,2800.00,3000.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4500.00,5500.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Potato,आलू,Other,2600.00,2800.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Singampunari(Uzhavar Sandhai ),Potato,आलू,Other,5200.00,5600.00,5400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,4600.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Tindivanam Rm,Potato,आलू,Red Nanital,4600.00,4600.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Sabarkantha,Himatnagar(Veg.Market Himatnagar) Apmc,Potato,आलू,Potato,1000.00,1500.00,1400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Bilaspur,Pmy Bilaspur,Potato,आलू,Other,1200.00,2200.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Udhamsinghnagar,Kicchha Apmc,Potato,आलू,Desi,800.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Potato,आलू,Local,900.00,1700.00,1300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3700.00,4500.00,4100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Potato,आलू,Other,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dhar,Manawar(F&V) Apmc,Potato,आलू,Potato,1100.00,1250.00,1167.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Potato,आलू,Other,5000.00,7000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Dharapuram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,7500.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hathras,Haathras Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Ghazipur,Jangipura Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Firozabad,Sirsaganj Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Badaun,Bisoli Apmc,Potato,आलू,Other,480.00,550.00,480.03,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Hardoi,Sandila Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Sambhal,Bhehjoi Apmc,Potato,आलू,Desi,700.00,702.00,701.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Potato,आलू,Other,6600.00,7800.00,7200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Chhachrauli Apmc,Potato,आलू,Potato,900.00,900.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Kaithal,Dhand Apmc,Potato,आलू,Other,800.00,1000.00,950.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Nagrota Bagwan,Potato,आलू,Potato,1000.00,2000.00,1400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3600.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Ambala,Naraingarh Apmc,Potato,आलू,Potato,400.00,650.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Khandwa,Khandwa(F&V) Apmc,Potato,आलू,Potato,300.00,600.00,400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Haridwar Union Apmc,Potato,आलू,Potato,650.00,850.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Jalandhar,Goraya Apmc,Potato,आलू,Other,1000.00,1000.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Boudh,Boudh Apmc,Potato,आलू,Other,1800.00,2200.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Baijnath,Potato,आलू,Desi,1400.00,2400.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Jaisinghpur,Potato,आलू,Potato,1100.00,2200.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Mehdipatnam,Potato,आलू,Potato,1800.00,1800.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Potato,आलू,Other,7000.00,7600.00,7300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Mainpuri,Bewar Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Shamli,Kairana Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Chandigarh,Chandigarh,Chandigarh (Grain/F&V) Apmc,Potato,आलू,Potato,300.00,1800.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Supaul,Triveniganj Apmc,Potato,आलू,Red Nanital,1600.00,1600.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Hamirpur,Pmy Hamirpur,Potato,आलू,Other,800.00,2500.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Karnal,Tarori Apmc,Potato,आलू,Desi,1000.00,1500.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Sonipat,Gohana Apmc,Potato,आलू,Other,800.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Hissar,Hansi Apmc,Potato,आलू,Other,1000.00,4000.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Amritsar,Rayya Apmc,Potato,आलू,Potato,720.00,720.00,720.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal) Apmc,Potato,आलू,Other,500.00,650.00,550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Falaknuma,Potato,आलू,Potato,1800.00,1800.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kannur,Thalasserry Market,Potato,आलू,Other,1700.00,2600.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Sonipat,Ganaur Apmc,Potato,आलू,Potato,1000.00,1500.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Hanumangarh,Sangriya Apmc,Potato,आलू,Potato,800.00,1900.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Malerkotla Apmc,Potato,आलू,Other,180.00,600.00,400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Tarntaran,Tarantaran Apmc,Potato,आलू,Other,860.00,860.00,860.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Porbandar,Porbandar Apmc,Potato,आलू,Red Nanital,1000.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Potato,आलू,Other,2800.00,3500.00,3150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Potato,आलू,Other,3200.00,3800.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2800.00,4400.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Potato,आलू,Other,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Potato,आलू,Other,4400.00,4400.00,4400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Vellore Rm,Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nagpur,Apmc Nagpur,Potato,आलू,Local,800.00,1100.00,1025.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Badaun,Babrala Apmc,Potato,आलू,Potato,780.00,800.00,790.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Dahod,Dahod(Veg. Market) Apmc,Potato,आलू,Potato,800.00,1200.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Surat,Surat Apmc,Potato,आलू,Other,500.00,2250.00,1375.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jodhpur,Jodhpur (F&V) Apmc,Potato,आलू,Potato,300.00,700.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Chattisgarh,Durg,Durg Apmc,Potato,आलू,Local,2000.00,2200.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2800.00,2800.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Banka,Amarpur Apmc,Potato,आलू,Jyoti,1000.00,1500.00,1250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Madhubani,Benipatti Apmc,Potato,आलू,Red Nanital,1150.00,1250.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Chhatarpur,Chhatarpur (F&V) Apmc,Potato,आलू,Other,750.00,750.00,750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Sagar,Khurai(F&V) Apmc,Potato,आलू,Potato,400.00,800.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Potato,आलू,Other,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Ambala,Shahzadpur Apmc,Potato,आलू,Potato,600.00,1200.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Hissar,Barwala(Hisar) Apmc,Potato,आलू,Potato,800.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Medinipur(E),Egra/Contai Apmc,Potato,आलू,Jyoti,820.00,850.00,835.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3600.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Potato,आलू,Other,3800.00,4000.00,3900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kannuj,Kannauj Apmc,Potato,आलू,Other,540.00,540.00,540.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Etawah,Jasvantnagar Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Kovilpatti(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Solan,Pmy Kather Solan,Potato,आलू,Other,600.00,2200.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Fatehgarh,Sirhind Apmc,Potato,आलू,Other,650.00,850.00,750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Jind,Narwana Apmc,Potato,आलू,Potato,500.00,600.00,550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Udhamsinghnagar,Sitarganj Apmc,Potato,आलू,Potato,800.00,1500.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Potato,आलू,Other,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Thiruchengodu Rm,Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Hyderabad,Rythu Bazar Erragadda,Potato,आलू,Potato,1800.00,1800.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Aurangabad,Aurangabad Apmc,Potato,आलू,Desi,1800.00,2200.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Morena,Morena Apmc,Potato,आलू,Desi,200.00,400.00,400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Mandi,Smy Dhanotu,Potato,आलू,Potato,600.00,2000.00,1450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Agra,Agra Apmc,Potato,आलू,Other,500.00,660.00,506.32,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Tarntaran,Patti Apmc,Potato,आलू,Potato,0.01,0.01,0.01,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Lalru Apmc,Potato,आलू,Other,900.00,900.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Dehradoon,Rishikesh Apmc,Potato,आलू,Other,780.00,1100.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Gurgaon,Sohna Apmc,Potato,आलू,Potato,1000.00,1000.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Dharamshala,Potato,आलू,Potato,1000.00,2200.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Mandi,Smy Jogindernagar,Potato,आलू,Desi,1200.00,2200.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Bhatinda,Bhagta Bhai Ka Apmc,Potato,आलू,Other,900.00,900.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jaipur,Jaipur (F&V) Apmc,Potato,आलू,Other,400.00,900.00,650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Khanna Apmc,Potato,आलू,Local,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Bhatinda,Bhucho Apmc,Potato,आलू,Potato,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Muktsar,Malout Apmc,Potato,आलू,Potato,700.00,700.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Patiala,Patiala Apmc,Potato,आलू,Local,700.00,900.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Patiala,Rajpura Apmc,Potato,आलू,Local,790.00,850.00,820.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Dhuri Apmc,Potato,आलू,Other,580.00,610.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Potato,आलू,Other,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Potato,आलू,Other,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Potato,आलू,Other,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2800.00,5500.00,4150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Palayamkottai(Uzhavar Sandhai ),Potato,आलू,Other,2600.00,2800.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Sivagangai (Uzhavar Sandhai ),Potato,आलू,Red Nanital,5200.00,6000.00,5600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Devakottai (Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,6000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,6000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Kknagar(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Farukhabad,Farukhabad Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Mainpuri,Ghiraur Apmc,Potato,आलू,Other,350.00,350.00,350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Navsari,Navsari Apmc,Potato,आलू,Potato,600.00,1800.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Anand,"Anand(Veg,Yard,Anand) Apmc",Potato,आलू,Potato,900.00,1000.00,950.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Anand,Khambhat(Veg Yard Khambhat) Apmc,Potato,आलू,Desi,1000.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,5500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tripura,Dhalai,Chowmanu Apmc,Potato,आलू,Jyoti,1800.00,2000.00,1900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Pune,Khed(Chakan),Potato,आलू,Other,900.00,1500.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Udhamsinghnagar,Rudrapur Apmc,Potato,आलू,Kufri Giriraj,500.00,900.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kannuj,Chhibramau Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Potato,आलू,Red Nanital,3800.00,3800.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Potato,आलू,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Potato,आलू,Other,3500.00,5000.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Palladam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Mathura,Mathura Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Pathankot,Pathankot Apmc,Potato,आलू,Potato,400.00,400.00,400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Ghazipur,Yusufpur Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Shahjahanpur,Powayan Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Fazilka,Jalalabad Apmc,Potato,आलू,Potato,600.00,800.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Shimla,Smy Rampur,Potato,आलू,Local,3000.00,3500.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ),Potato,आलू,Other,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3300.00,4000.00,3650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Paruthipattu(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Potato,आलू,Other,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rohtak,Rohtak Apmc,Potato,आलू,Other,400.00,1000.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Samrala Apmc,Potato,आलू,Other,400.00,500.00,450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Pmy Kangra,Potato,आलू,Potato,1000.00,2200.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Sundergarh,Sargipali Apmc,Potato,आलू,Other,1000.00,1200.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Angul,Talcher Apmc,Potato,आलू,Other,800.00,1500.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Gurgaon,Gurgaon Apmc,Potato,आलू,Other,800.00,1200.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jalore,Sanchore Apmc,Potato,आलू,Other,850.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Solan,Smy Nalagarh,Potato,आलू,Other,400.00,1200.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bolangir,Tusura Apmc,Potato,आलू,Other,1200.00,1600.00,1400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Assam,Kamrup,Pamohi(Garchuk) Apmc,Potato,आलू,Other,1500.00,2200.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Jaipur,Bassi Apmc,Potato,आलू,Other,2400.00,2600.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Madhubani,Madhubani Apmc,Potato,आलू,Red,1050.00,1200.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Assam,Tinsukia,Tinsukia Market,Potato,आलू,Potato,750.00,850.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Morena,Kailaras Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Banka,Barahat Apmc,Potato,आलू,Potato,1000.00,1500.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bargarh,Bargarh Apmc,Potato,आलू,Potato,2000.00,3000.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kangra,Smy Palampur,Potato,आलू,Potato,1000.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Jalpaiguri,Moynaguri Apmc,Potato,आलू,Jyoti,500.00,510.00,510.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kozhikode(Calicut),Mukkom Market,Potato,आलू,Potato,2400.00,2600.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ropar (Rupnagar),Ropar Apmc,Potato,आलू,Red,600.00,800.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Tiruppur (South) (Uzhavar Sandhai ),Potato,आलू,Other,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Potato,आलू,Other,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Potato,आलू,Other,2600.00,3000.00,2800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Potato,आलू,Other,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3600.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anna Nagar(Uzhavar Sandhai ),Potato,आलू,Other,6600.00,6600.00,6600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Potato,आलू,Other,3400.00,3800.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Potato,आलू,Other,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Potato,आलू,Other,5500.00,5500.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Ngo Colony(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2000.00,2800.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,3200.00,2850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Muthupettai(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,6000.00,7600.00,6800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4600.00,4600.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Udumalpettai Rm,Potato,आलू,Red Nanital,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Thirupathur Rm,Potato,आलू,Red Nanital,3400.00,3400.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Fatehpur,Fatehpur Apmc,Potato,आलू,Other,700.00,700.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) Apmc,Potato,आलू,Other,800.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Surendranagar,Vadhvan Apmc,Potato,आलू,Potato,1500.00,2000.00,1750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Gondal(Veg.Market Gondal) Apmc,Potato,आलू,Potato,1000.00,1400.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Etawah,Etawah Apmc,Potato,आलू,Other,500.00,511.00,506.51,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Kanpur,Kanpur(Grain) Apmc,Potato,आलू,Other,550.00,550.00,550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Satara,Apmc Satara,Potato,आलू,Other,1000.00,1400.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2200.00,2600.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Navsari,Bilimora Apmc,Potato,आलू,Other,1600.00,2000.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,East Champaran/ Motihari,Raxaul Apmc,Potato,आलू,Red Nanital,1300.00,1500.00,1400.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Jalpaiguri,Belacoba Apmc,Potato,आलू,Jyoti,500.00,510.00,505.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Bulandshahar,Buland Shahr Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Dhar,Kukshi(F&V) Apmc,Potato,आलू,Potato,800.00,1200.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Potato,आलू,Other,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Rajsamand,Rajsamand Apmc,Potato,आलू,Potato,800.00,1200.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Sonepur,Birmaharajpur Apmc,Potato,आलू,Other,1800.00,2000.00,1900.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Darjeeling,Darjeeling Apmc,Potato,आलू,Red,1300.00,1500.00,1400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Vadodara(Baroda),Padra Apmc,Potato,आलू,Other,2000.00,2200.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Jagadhri Apmc,Potato,आलू,Potato,600.00,800.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Mannargudi I(Uzhavar Sandhai ),Potato,आलू,Other,3400.00,3400.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Ambattur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Naravarikuppam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Jhajar,Jhajjar Apmc,Potato,आलू,Other,1100.00,1100.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Badaun,Badayoun Apmc,Potato,आलू,Other,550.00,550.00,550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Garhwal (Pauri),Kotadwara Apmc,Potato,आलू,Potato,1000.00,1000.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Hoshiarpur,Tanda Urmur Apmc,Potato,आलू,Local,1000.00,1200.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rohtak,Meham,Potato,आलू,Potato,1000.00,1200.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,7500.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Guna,Guna(F&V) Apmc,Potato,आलू,Other,800.00,900.00,850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Shivpuri,Shivpuri(F&V) Apmc,Potato,आलू,Other,700.00,700.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard) Apmc,Potato,आलू,Potato,1555.00,1710.00,1630.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Betul,Betul(F&V) Apmc,Potato,आलू,Desi,1100.00,1300.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Telangana,Siddipet,Siddipet(Rythu Bazar),Potato,आलू,Red Nanital,1500.00,2400.00,2000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Bhojpur,Aarah Apmc,Potato,आलू,Other,900.00,900.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Buxar,Buxur Apmc,Potato,आलू,Jyoti,1162.00,1178.00,1168.00,INR/Quintal,2026-10-21,Agmarknet,false
+Bihar,Supaul,Birpur Apmc,Potato,आलू,Potato,1600.00,2000.00,1800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Chamba,Pmy Chamba,Potato,आलू,Potato,1000.00,1200.00,1100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Bolangir,Bolangir Apmc,Potato,आलू,Other,1200.00,1600.00,1400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Jagatsinghpur,Jagatsinghpur Apmc,Potato,आलू,Potato,1350.00,1550.00,1450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Kurukshetra,Shahabad Apmc,Potato,आलू,Potato,500.00,700.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Gurdaspur,Quadian Apmc,Potato,आलू,Other,600.00,800.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thuraiyur Rm,Potato,आलू,Other,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Rajasthan,Hanumangarh,Rawatsar Apmc,Potato,आलू,Red Nanital,400.00,700.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Jammu And Kashmir,Jammu,Mac F&V Market Narwal Jammu,Potato,आलू,Potato,800.00,1200.00,1000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Ernakulam,Perumbavoor Market,Potato,आलू,Potato,2500.00,3500.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Ahmedgarh Apmc,Potato,आलू,Other,400.00,450.00,450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Kottayam,Ettumanoor Market,Potato,आलू,Potato,2700.00,3200.00,2900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Ulundurpet Rm,Potato,आलू,Red Nanital,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3200.00,3500.00,3350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3300.00,3150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Potato,आलू,Other,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,2600.00,2550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Potato,आलू,Other,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3600.00,3300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),Potato,आलू,Red Nanital,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Potato,आलू,Other,5600.00,6000.00,5800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Karaikudi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4600.00,4600.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Mohali,Kharar Apmc,Potato,आलू,Potato,600.00,800.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2800.00,3500.00,3150.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kannyiakumari,Myladi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,3800.00,3650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Ahilyanagar,Apmc Shrirampur,Potato,आलू,Other,1000.00,1400.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Potato,आलू,Other,1300.00,1400.00,1350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Farukhabad,Kayamganj Apmc,Potato,आलू,Other,550.00,550.00,550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Fatehabad,Fatehabad Apmc,Potato,आलू,Potato,800.00,800.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Agra,Fatehabad Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Varanasi,Varanasi Apmc,Potato,आलू,Other,800.00,800.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Haridwar,Roorkee Apmc,Potato,आलू,Other,700.00,1200.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Potato,आलू,Other,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Unnao,Bangarmau Apmc,Potato,आलू,Other,700.00,700.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Badaun,Bilsi Apmc,Potato,आलू,Other,550.00,550.00,550.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvallur,Tiruthani(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttarakhand,Chamoli (Gopeshwar),Chamoli Apmc,Potato,आलू,Other,1600.00,1600.00,1600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Mathura,Kosikalan Apmc,Potato,आलू,Desi,700.00,800.00,760.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Prayagraj,Prayagraj Apmc,Potato,आलू,Other,700.00,710.00,701.38,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Bulandshahar,Siyana Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tripura,North Tripura,Dasda Apmc,Potato,आलू,Other,1550.00,1550.00,1550.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Darjeeling,Karsiyang(Matigara) Apmc,Potato,आलू,Red,1300.00,1500.00,1400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Yamuna Nagar,Mustafabad Apmc,Potato,आलू,Potato,700.00,800.00,800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Hamirpur,Smy Nadaun,Potato,आलू,Other,1200.00,1400.00,1300.00,INR/Quintal,2026-10-21,Agmarknet,false
+West Bengal,Darjeeling,Siliguri Apmc,Potato,आलू,Jyoti,550.00,570.00,560.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Una,Smy Santoshgarh,Potato,आलू,Jyoti,800.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Mumbai,Mumbai-Onion & Potato Market,Potato,आलू,Other,700.00,1400.00,1050.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4500.00,4800.00,4650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Mannargudi Ii(Uzhavar Sandhai ),Potato,आलू,Other,3400.00,3400.00,3400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3000.00,3000.00,3000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Rewari,Rewari Apmc,Potato,आलू,Other,700.00,2000.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Odisha,Dhenkanal,Hindol Apmc,Potato,आलू,Potato,1100.00,1300.00,1200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Harda,Harda(F&V) Apmc,Potato,आलू,Desi,1200.00,1300.00,1250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Badaun,Islam Nagar Apmc,Potato,आलू,Other,480.00,480.00,480.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Mahendragarh-Narnaul,Narnaul Apmc,Potato,आलू,Potato,800.00,1000.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Hoshiarpur,Garh Shankar Apmc,Potato,आलू,Potato,900.00,900.00,900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Ludhiana,Doraha Apmc,Potato,आलू,Desi,500.00,800.00,700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Keralam,Alappuzha,Chengannur Market,Potato,आलू,Potato,3400.00,3700.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Potato,आलू,Other,7000.00,8000.00,7500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Rspuram(Uzhavar Sandhai ),Potato,आलू,Other,7000.00,7800.00,7400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,6000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Shahjahanpur,Jalalabad Apmc,Potato,आलू,Other,500.00,500.00,500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Potato,आलू,Other,6500.00,7000.00,6750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4600.00,4600.00,4600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kannyiakumari,Vadaseri Rm,Potato,आलू,Red Nanital,3500.00,3800.00,3650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Potato,आलू,Other,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Himachal Pradesh,Kullu,Smy Bhuntar,Potato,आलू,Other,1000.00,2200.00,1500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Nagaland,Mon,Mon Apmc,Potato,आलू,Local,1160.00,1180.00,1170.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Sonipat,Ganaur Apmc,Sweet Potato,Sweet Potato,Sweet Potato,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5400.00,5600.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Kknagar(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,7000.00,7000.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Hoshiarpur,Tanda Urmur Apmc,Sweet Potato,Sweet Potato,Other,3000.00,4000.00,3500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Rspuram(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Kurukshetra,Shahabad Apmc,Sweet Potato,Sweet Potato,Sweet Potato,3000.00,3200.00,3100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Thuraiyur Rm,Sweet Potato,Sweet Potato,Hosur Red,5500.00,5500.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Punjab,Sangrur,Malerkotla Apmc,Sweet Potato,Sweet Potato,Hosur Green,1800.00,2500.00,2200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Periyar Nagar(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Sweet Potato,Sweet Potato,Hosur Red,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,5500.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Dahod,Dahod(Veg. Market) Apmc,Sweet Potato,Sweet Potato,Sweet Potato,2500.00,3000.00,2700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,3300.00,4000.00,3650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Thiruchengodu Rm,Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,8000.00,8000.00,8000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4600.00,5000.00,4800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6500.00,6250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6400.00,6200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,3600.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Sweet Potato,Sweet Potato,Hosur Red,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,6000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Anna Nagar(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5600.00,5600.00,5600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Karur,Pallapatti (Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4600.00,5000.00,4800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruppur,Udumalpettai Rm,Sweet Potato,Sweet Potato,Hosur Red,6500.00,7500.00,7000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Thirupathur Rm,Sweet Potato,Sweet Potato,Hosur Red,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Chattisgarh,Durg,Durg Apmc,Sweet Potato,Sweet Potato,Sweet Potato,3000.00,3200.00,3200.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,3600.00,4000.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5000.00,5500.00,5250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,5800.00,5650.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,3600.00,3600.00,3600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5000.00,6000.00,5500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Haryana,Hissar,Hansi Apmc,Sweet Potato,Sweet Potato,Other,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5500.00,6000.00,5750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,4500.00,4250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,5000.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Tindivanam Rm,Sweet Potato,Sweet Potato,Hosur Red,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Vellore,Vellore Rm,Sweet Potato,Sweet Potato,Hosur Red,4500.00,4500.00,4500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Mumbai,Apmc Mumbai,Sweet Potato,Sweet Potato,Other,1600.00,2600.00,2100.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thenkasi,Tenkasi(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,5000.00,5000.00,5000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Tiruvarur,Tiruthuraipoondi(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,6000.00,6000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,4500.00,5000.00,4750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Shamli,Kairana Apmc,Sweet Potato,Sweet Potato,Sweet Potato,2300.00,2400.00,2350.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Apmc Yeola,Onion,प्याज,Unhali,1802.00,4437.00,3875.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Pimpalgaon Baswant(Saykheda),Onion,प्याज,Unhali,2401.00,4215.00,3601.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Apmc Manmad,Onion,प्याज,Unhali,1200.00,4325.00,3900.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Apmc Pimpalgaon Baswant,Onion,प्याज,Unhali,2000.00,5301.00,4300.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Apmc Nampur,Onion,प्याज,Unhali,2000.00,4105.00,3700.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Apmc Devala,Onion,प्याज,Unhali,900.00,4175.00,3850.00,INR/Quintal,2026-10-21,Agmarknet,false
+Maharashtra,Nashik,Lasalgaon(Vinchur),Onion,प्याज,Unhali,1000.00,4201.00,3800.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Amethi,Sultanpur Apmc,Wheat,गेहूँ,Dara,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Gorakhpur,Sehjanwa Apmc,Wheat,गेहूँ,Dara,2400.00,2400.00,2400.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Madhuranthagam(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Thirukalukundram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,4000.00,4000.00,4000.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Potato,आलू,Red Nanital,3500.00,4000.00,3750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Potato,आलू,Red Nanital,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Medavakkam(Uzhavar Sandhai ),Potato,आलू,Other,3000.00,3500.00,3250.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Jameenrayapettai(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Guduvancheri(Uzhavar Sandhai ),Potato,आलू,Other,2500.00,3000.00,2750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,7500.00,8000.00,7750.00,INR/Quintal,2026-10-21,Agmarknet,false
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Sweet Potato,Sweet Potato,Hosur Red,6000.00,7000.00,6500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Barabanki,Barabanki Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Barabanki,Safdarganj Apmc,Potato,आलू,Other,600.00,600.00,600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Assam,Kamrup,Fancy Bazaar Apmc,Wheat Atta,Wheat Atta,Wheat Atta,6600.00,9200.00,7600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Ayodhya,Ayodhya Apmc,Wheat,गेहूँ,Medium,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Alirajpur,Alirajpur Apmc,Wheat,गेहूँ,Wheat,2450.00,2450.00,2450.00,INR/Quintal,2026-10-21,Agmarknet,false
+Gujarat,Ahmedabad,Viramgam Apmc,Wheat,गेहूँ,Other,2235.00,2845.00,2540.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Badaun,Babrala Apmc,Wheat,गेहूँ,Dara,2530.00,2550.00,2540.00,INR/Quintal,2026-10-21,Agmarknet,false
+Madhya Pradesh,Badwani,Anjad Apmc,Wheat,गेहूँ,Wheat,2600.00,2600.00,2600.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Barabanki,Safdarganj Apmc,Wheat,गेहूँ,Dara,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Auraiya,Achalda Apmc,Wheat,गेहूँ,Dara,2500.00,2500.00,2500.00,INR/Quintal,2026-10-21,Agmarknet,false
+Uttar Pradesh,Auraiya,Auraiya Apmc,Wheat,गेहूँ,Other,2570.00,2570.00,2570.00,INR/Quintal,2026-10-21,Agmarknet,false

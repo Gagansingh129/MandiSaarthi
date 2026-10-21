@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" height="100%" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Sky & Sun Gradients -->
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fef3c7" />
+      <stop offset="45%" stop-color="#ecfdf5" />
+      <stop offset="100%" stop-color="#d1fae5" />
+    </linearGradient>
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.9" />
+      <stop offset="40%" stop-color="#f59e0b" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#fef3c7" stop-opacity="0" />
+    </radialGradient>
+    
+    <!-- Mountain & Hill Gradients -->
+    <linearGradient id="mountainGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a7f3d0" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <linearGradient id="hillBack" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="fieldWheat" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fde68a" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <linearGradient id="fieldGreen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6ee7b7" />
+      <stop offset="100%" stop-color="#065f46" />
+    </linearGradient>
+    <linearGradient id="terraceField" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#15803d" />
+      <stop offset="50%" stop-color="#16a34a" />
+      <stop offset="100%" stop-color="#ca8a04" />
+    </linearGradient>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="900" height="260" fill="url(#skyGrad)" />
+
+  <!-- Sun & Morning Glow -->
+  <circle cx="680" cy="70" r="110" fill="url(#sunGlow)" />
+  <circle cx="680" cy="70" r="34" fill="#fbbf24" />
+
+  <!-- Distant Blue/Green Mountain Ridges -->
+  <path d="M0 160 Q120 100 260 145 T520 120 T780 140 Q850 130 900 150 L900 260 L0 260 Z" fill="url(#mountainGrad)" opacity="0.45" />
+  <path d="M0 180 Q180 120 380 165 T760 145 Q840 155 900 170 L900 260 L0 260 Z" fill="url(#hillBack)" opacity="0.6" />
+
+  <!-- Rolling Terraced Agricultural Farmland -->
+  <path d="M0 185 Q220 160 450 195 T900 180 L900 260 L0 260 Z" fill="url(#terraceField)" opacity="0.85" />
+  
+  <!-- Golden Harvest Wheat Field (Right) -->
+  <path d="M350 200 Q580 180 900 205 L900 260 L350 260 Z" fill="url(#fieldWheat)" />
+  
+  <!-- Lush Green Crop Rows (Left foreground) -->
+  <path d="M0 200 Q200 190 420 225 L420 260 L0 260 Z" fill="url(#fieldGreen)" />
+
+  <!-- Field Furrow Texture Lines -->
+  <path d="M40 210 Q220 205 380 235" stroke="#047857" stroke-width="2" fill="none" opacity="0.4" />
+  <path d="M20 225 Q200 220 360 250" stroke="#047857" stroke-width="2" fill="none" opacity="0.4" />
+  <path d="M420 215 Q650 200 880 220" stroke="#b45309" stroke-width="2" fill="none" opacity="0.4" />
+  <path d="M460 230 Q680 215 900 235" stroke="#b45309" stroke-width="2" fill="none" opacity="0.4" />
+
+  <!-- Red Farm Tractor in the field -->
+  <g transform="translate(560, 168) scale(0.65)">
+    <!-- Cabin & Body -->
+    <rect x="25" y="10" width="28" height="24" rx="3" fill="#dc2626" />
+    <polygon points="25,12 15,22 15,34 53,34 53,12" fill="#b91c1c" />
+    <!-- Window -->
+    <rect x="28" y="14" width="12" height="12" rx="2" fill="#e0f2fe" opacity="0.9" />
+    <!-- Exhaust pipe -->
+    <rect x="20" y="4" width="3" height="10" fill="#374151" />
+    <!-- Large Rear Wheel -->
+    <circle cx="20" cy="38" r="14" fill="#1f2937" />
+    <circle cx="20" cy="38" r="7" fill="#9ca3af" />
+    <!-- Small Front Wheel -->
+    <circle cx="48" cy="42" r="9" fill="#1f2937" />
+    <circle cx="48" cy="42" r="4.5" fill="#9ca3af" />
+    <!-- Steering / Driver silhouette -->
+    <circle cx="34" cy="18" r="4" fill="#4b5563" />
+  </g>
+
+  <!-- Traditional Mandi / Barn Shed in distance -->
+  <g transform="translate(180, 140) scale(0.55)">
+    <polygon points="40,20 10,40 70,40" fill="#b45309" />
+    <rect x="15" y="40" width="50" height="30" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" />
+    <rect x="32" y="48" width="16" height="22" fill="#78350f" />
+    <!-- Silo / Grain Storage -->
+    <rect x="74" y="28" width="18" height="42" rx="4" fill="#cbd5e1" stroke="#64748b" stroke-width="1.5" />
+    <ellipse cx="83" cy="28" rx="9" ry="5" fill="#94a3b8" />
+  </g>
+
+  <!-- Trees & Palm Groves -->
+  <g transform="translate(110, 155)">
+    <!-- Palm 1 -->
+    <path d="M20 30 Q22 15 20 0" stroke="#78350f" stroke-width="2.5" fill="none" />
+    <path d="M20 0 Q10 -10 0 -5" stroke="#15803d" stroke-width="2" fill="none" />
+    <path d="M20 0 Q30 -10 40 -5" stroke="#15803d" stroke-width="2" fill="none" />
+    <path d="M20 0 Q20 -14 20 -15" stroke="#16a34a" stroke-width="2" fill="none" />
+    <circle cx="20" cy="-2" r="8" fill="#15803d" opacity="0.7" />
+  </g>
+  <g transform="translate(320, 160)">
+    <!-- Banyan / Shade Tree -->
+    <path d="M15 25 L15 10" stroke="#78350f" stroke-width="3" fill="none" />
+    <circle cx="15" cy="5" r="14" fill="#15803d" />
+    <circle cx="8" cy="8" r="10" fill="#166534" />
+    <circle cx="22" cy="7" r="10" fill="#16a34a" />
+  </g>
+  <g transform="translate(740, 175)">
+    <!-- Tree cluster -->
+    <circle cx="15" cy="5" r="12" fill="#15803d" />
+    <circle cx="28" cy="8" r="10" fill="#166534" />
+  </g>
+
+  <!-- Flying birds in sky -->
+  <path d="M420 50 Q425 45 430 50 Q435 45 440 50" stroke="#475569" stroke-width="1.5" fill="none" />
+  <path d="M445 42 Q450 37 455 42 Q460 37 465 42" stroke="#475569" stroke-width="1.5" fill="none" />
+  <path d="M480 58 Q484 54 488 58 Q492 54 496 58" stroke="#475569" stroke-width="1.2" fill="none" />
+
+  <!-- Golden Wheat Stalk Details Foreground Right -->
+  <g transform="translate(820, 195) scale(0.7)">
+    <path d="M10 60 Q20 30 15 0" stroke="#ca8a04" stroke-width="2" fill="none" />
+    <ellipse cx="15" cy="5" rx="4" ry="7" fill="#eab308" />
+    <ellipse cx="12" cy="15" rx="3.5" ry="6" fill="#facc15" />
+    <ellipse cx="18" cy="25" rx="3.5" ry="6" fill="#eab308" />
+    
+    <path d="M25 60 Q35 35 30 5" stroke="#ca8a04" stroke-width="2" fill="none" />
+    <ellipse cx="30" cy="10" rx="4" ry="7" fill="#eab308" />
+    <ellipse cx="27" cy="20" rx="3.5" ry="6" fill="#facc15" />
+    <ellipse cx="33" cy="30" rx="3.5" ry="6" fill="#eab308" />
+  </g>
+</svg>

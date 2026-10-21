@@ -1,0 +1,12 @@
+state,district,mandi,commodity,commodity_hindi,variety,min_price,max_price,modal_price,price_unit,reported_date,source,no_rate_reported
+Synthetic State,Synthetic District,Test Mandi Alpha,Wheat,गेहूँ,Test Variety,1500.00,2500.00,2000.00,INR/Quintal,2026-10-21,Synthetic-Test,false
+Synthetic State,Synthetic District,Test Mandi Alpha,Wheat,गेहूँ,Test Variety,1480.00,2480.00,1980.00,INR/Quintal,2026-10-20,Synthetic-Test,false
+Synthetic State,Synthetic District,Test Mandi Alpha,Wheat,गेहूँ,Test Variety,,,,,2026-10-19,Synthetic-Test,true
+Synthetic State,Synthetic District,Test Mandi Alpha,Wheat,गेहूँ,Test Variety,1460.00,2460.00,1960.00,INR/Quintal,2026-10-18,Synthetic-Test,false
+Synthetic State,Synthetic District,Test Mandi Beta,Wheat,गेहूँ,Test Variety,1600.00,2600.00,2100.00,INR/Quintal,2026-10-21,Synthetic-Test,false
+Synthetic State,Synthetic District,Test Mandi Beta,Wheat,गेहूँ,Test Variety,1580.00,2580.00,2080.00,INR/Quintal,2026-10-20,Synthetic-Test,false
+Synthetic State,Synthetic District,Test Mandi Beta,Wheat,गेहूँ,Test Variety,1560.00,2560.00,2060.00,INR/Quintal,2026-10-19,Synthetic-Test,false
+Synthetic State,Synthetic District,Test Mandi Beta,Wheat,गेहूँ,Test Variety,,,,,2026-10-18,Synthetic-Test,true
+Synthetic State,Synthetic District,Test Mandi Alpha,Onion,प्याज,Test Variety,800.00,2000.00,1400.00,INR/Quintal,2026-10-21,Synthetic-Test,false
+Synthetic State,Synthetic District,Test Mandi Alpha,Onion,प्याज,Test Variety,,,,,2026-10-20,Synthetic-Test,true
+Synthetic State,Synthetic District,Test Mandi Alpha,Onion,प्याज,Test Variety,750.00,1950.00,1350.00,INR/Quintal,2026-10-19,Synthetic-Test,false
